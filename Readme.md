@@ -41,8 +41,8 @@ Here are some of the projects I’ve built recently:
 ![Abhishek's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abhishek6827&show_icons=true&theme=radical)
 
 ## 🔥 GitHub Streak
+![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=Abhishek6827&theme=radical)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Abhishek6827&theme=radical)
 
 
 ## 📈 Most Used Languages
