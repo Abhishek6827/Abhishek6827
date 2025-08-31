@@ -3,7 +3,7 @@
 I'm a passionate **Frontend Developer** with a strong foundation in **JavaScript** and hands-on experience building responsive, real-world projects.
 
 🎓 Postgraduate in Computer Applications  
-🚀 Focused on JavaScript, React.js & Tailwind CSS  
+🚀 Focused on React.js, JavaScript, Bootstrap & Tailwind CSS  
 💼 Actively seeking frontend development opportunities  
 🌱 Currently learning: TypeScript & Next.js
 
