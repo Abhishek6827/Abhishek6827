@@ -1,151 +1,206 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Abhishek%20Tiwari&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full-Stack%20Developer%20%7C%20Next.js%20%26%20TypeScript%20%7C%20SaaS%20Builder&descSize=18&descAlignY=52" />
+
 <div align="center">
 
-<!-- Animated Typing Header -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=Hi+%F0%9F%91%8B%2C+I'm+Abhishek+Tiwari;Full-Stack+Developer+%7C+Next.js+%26+TypeScript;SaaS+Builder+%7C+Payment+Integration+Expert" alt="Typing SVG" /></a>
+<!-- Animated Typing SVG -->
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=A855F7&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=620&height=100&lines=%F0%9F%9A%80+Building+scalable+SaaS+solutions;%F0%9F%92%B3+Payment+integration+specialist+(Stripe+%2B+Zoho);%F0%9F%94%A5+15%2B+production+apps+shipped+and+deployed;%E2%9A%A1+Turning+ideas+into+clean%2C+maintainable+code" alt="Typing SVG" /></a>
 
-<!-- Badges -->
-<p>
-  <img src="https://komarev.com/ghpvc/?username=Abhishek6827&label=Profile%20Views&color=6366f1&style=for-the-badge" alt="Profile Views" />
-  <a href="https://www.linkedin.com/in/abhishek-tiwariiii"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://abhishek6827.github.io/Portfolio/"><img src="https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" /></a>
-  <a href="mailto:abhishektiwari6827@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-</p>
+<br/>
+
+<!-- Top Badges Row -->
+<a href="https://abhishek6827.github.io/Portfolio/"><img src="https://img.shields.io/badge/🌐_Portfolio-Visit_Now-6366f1?style=for-the-badge&labelColor=0d1117" /></a>
+<a href="https://www.linkedin.com/in/abhishek-tiwariiii"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" /></a>
+<a href="mailto:abhishektiwari6827@gmail.com"><img src="https://img.shields.io/badge/Gmail-Hire_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" /></a>
+<img src="https://komarev.com/ghpvc/?username=Abhishek6827&style=for-the-badge&color=a855f7&label=PROFILE+VIEWS&labelColor=0d1117" alt="Profile Views" />
 
 </div>
 
----
+<br/>
 
-## 🧑‍💻 About Me
+<!-- Horizontal Divider with Rainbow -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 
-- 🔭 **Full-Stack Developer** from **Lucknow, India**, specializing in building scalable SaaS solutions and production-ready applications with modern web technologies.
-- ⚡ Experienced across the entire development stack — from crafting intuitive UIs with **Next.js** & **TypeScript**, to implementing secure payment integrations with **Stripe** & **Zoho Payments**.
-- 🛠️ Skilled in API development & testing with **Postman**, webhook implementations, Firebase hosting, real-time notifications via **Telegram API**, and email integrations using **Resend API**.
-- 🌱 Currently building **scalable SaaS products** with automated workflows, secure payment systems, and production-grade testing environments.
-- 📫 Reach me at **abhishektiwari6827@gmail.com** or call **+91 7081660941**.
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> About Me
 
----
+```typescript
+const abhishek = {
+    location: "Lucknow, India 🇮🇳",
+    education: "Postgraduate in Computer Applications 🎓",
+    currentRole: "Full-Stack Developer",
+    specialization: ["SaaS Products", "Payment Systems", "API Integrations"],
+    funFact: "I mass produce web apps like a factory 🏭"
+};
+```
 
-## 🛠️ Tech Stack
+<table>
+<tr>
+<td width="50%">
 
-### Frontend
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+🔥 **What I bring to the table:**
 
-### Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+- ⚡ Full-stack mastery — **React** to **Django**, and everything between
+- 💳 Payment gateway pro — **Stripe**, **Zoho Payments**, webhooks
+- 🏗️ SaaS architect — scalable, production-ready, battle-tested
+- 🤖 API integrations — Telegram, Resend, Notion, Firebase
+- 🚀 **15+ deployed apps** and counting
 
-### Database
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+</td>
+<td width="50%">
 
-### Payment & Integration
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishek6827&layout=donut-vertical&theme=radical&hide_border=true&bg_color=0d1117&title_color=a855f7&text_color=c9d1d9&langs_count=6" width="100%" />
+
+</td>
+</tr>
+</table>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
+
+## 🛠️ Arsenal
+
+<div align="center">
+
+### ⚔️ Frontend Weapons
+<img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,tailwind,redux,angular,html,css&perline=9" />
+
+### 🧠 Backend & Database
+<img src="https://skillicons.dev/icons?i=nodejs,express,django,python,firebase,mongodb,postgres,mysql&perline=8" />
+
+### 💳 Payment & Integration
 ![Stripe](https://img.shields.io/badge/Stripe-008CDD?style=for-the-badge&logo=stripe&logoColor=white)
 ![Zoho](https://img.shields.io/badge/Zoho_Payments-C8202B?style=for-the-badge&logo=zoho&logoColor=white)
+![Telegram](https://img.shields.io/badge/Telegram_Bot-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Telegram](https://img.shields.io/badge/Telegram_API-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)
+![Webhooks](https://img.shields.io/badge/Webhooks-6366F1?style=for-the-badge&logo=webhook&logoColor=white)
+![Resend](https://img.shields.io/badge/Resend_API-000000?style=for-the-badge&logo=resend&logoColor=white)
 
-### DevOps & Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
----
-
-## 💼 Work Experience
-
-### Full Stack Developer — Indian Capital and Investment (Coimbatore) Limited
-`11/2025 - 01/2026`
-- Developed secure payment gateway integration using Stripe and Zoho Payments.
-- Built scalable backend services with Next.js and Firebase for real-time data handling.
-- Implemented automated webhooks for transaction status updates and Resend API notifications.
-
-### Software Developer — Vasnaani Education
-`08/2024 - 10/2025`
-- Developed and maintained the official website with a focus on performance and scalability.
-- Integrated Django REST APIs with React frontend modules, ensuring seamless data flow.
-- Optimized website performance, improved database structure, and resolved critical UI/UX bugs.
-
-### Full-Stack Developer Intern — Hoping Minds
-`01/2024 - 06/2024`
-- Developed and maintained web applications using React, Redux, and Django.
-- Collaborated with cross-functional teams to deliver high-quality software solutions.
-- Implemented responsive designs and optimized application performance.
-
-### Web Developer — Quizario
-`11/2023 - 12/2023`
-- Built interactive quiz applications with modern web technologies.
-- Implemented user authentication and data management features.
-
----
-
-## 🚀 Featured Projects
-
-| Project | Description | Tech Stack | Live Demo |
-|---------|-------------|------------|-----------|
-| **Social Connect** | Full-stack social connection app with advanced frontend interfaces | Angular, Node.js, Express, MongoDB | [🔗 Live](https://social-media-lemon-six.vercel.app/login) |
-| **YouTube Automation** | Automated YouTube content creation workflow using AI | Next.js, Prisma, PostgreSQL, Generative AI | [🔗 Live](https://yt-automation-beta.vercel.app/) |
-| **Tempusmail** | Temporary email service with real-time email receiving | Next.js, Firebase, Notion Database, Tailwind CSS | [🔗 Live](https://tempusmail-backend--tempusmail6827.us-central1.hosted.app/) |
-| **Myntra Clone** | Fashion e-commerce platform with modern UI/UX | React, Redux, CSS, JavaScript | [🔗 Live](https://Abhishek6827.github.io/Myntra/) |
-| **Kanban WorkBoard** | Project management dashboard with Django backend | Django, React, Redux, Tailwind CSS | [🔗 Live](https://Abhishek6827.github.io/Kanban_WorkBoard/) |
-| **Market Seasonality Explorer** | Calendar highlighting seasonal market trends for traders | React, Tailwind CSS, Recharts, Binance API | [🔗 Live](https://abhishek6827.github.io/Market-Seasonality-Explorer/) |
-| **Skill Up** | Learning platform for browsing and accessing online courses | React, Bootstrap, JavaScript | [🔗 Live](https://Abhishek6827.github.io/Skill_Up/) |
-| **Elante Mall** | Shopping mall website with store directory and event listings | React, CSS, JavaScript | [🔗 Live](https://Abhishek6827.github.io/Elante_Mall/) |
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Abhishek6827&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="180" />
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Abhishek6827&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="180" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishek6827&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="180" />
+### 🔧 DevOps & Tools
+<img src="https://skillicons.dev/icons?i=git,github,vercel,vscode,linux&perline=5" />
 
 </div>
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
+
+## 💼 Battle Log (Experience)
+
+<table>
+<tr>
+<td>
+
+### 🏢 Full Stack Developer
+**Indian Capital & Investment (Coimbatore) Ltd.**
+`📅 11/2025 - 01/2026`
+
+> 💳 Stripe & Zoho payment gatways · Next.js + Firebase backend · Automated webhooks & Resend notifications · Notion API workflow automation
+
+</td>
+<td>
+
+### 🏢 Software Developer
+**Vasnaani Education**
+`📅 08/2024 - 10/2025`
+
+> 🌐 Official website development · Django REST API + React integration · Performance optimization · Critical UI/UX bug resolution
+
+</td>
+</tr>
+<tr>
+<td>
+
+### 🏢 Full-Stack Developer Intern
+**Hoping Minds**
+`📅 01/2024 - 06/2024`
+
+> ⚛️ React + Redux + Django apps · Cross-functional team delivery · Responsive design implementation · Clean code practices
+
+</td>
+<td>
+
+### 🏢 Web Developer
+**Quizario**
+`📅 11/2023 - 12/2023`
+
+> 🎮 Interactive quiz applications · User authentication · Data management features · Performance optimization
+
+</td>
+</tr>
+</table>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
+
+## 🚀 Shipped & Deployed
+
+<div align="center">
+
+| # | Project | What it does | Stack | Link |
+|:-:|---------|-------------|-------|:----:|
+| 🟣 | **Social Connect** | Full-stack social app with advanced UI | `Angular` `Node.js` `MongoDB` | [**LIVE ↗**](https://social-media-lemon-six.vercel.app/login) |
+| 🔴 | **YouTube Automation** | AI-powered content creation workflow | `Next.js` `Prisma` `PostgreSQL` `AI` | [**LIVE ↗**](https://yt-automation-beta.vercel.app/) |
+| 🟠 | **Tempusmail** | Disposable email service, real-time | `Next.js` `Firebase` `Notion API` | [**LIVE ↗**](https://tempusmail-backend--tempusmail6827.us-central1.hosted.app/) |
+| 🩷 | **Myntra Clone** | Fashion e-commerce platform | `React` `Redux` `CSS` | [**LIVE ↗**](https://Abhishek6827.github.io/Myntra/) |
+| 🔵 | **Kanban WorkBoard** | Project management + Django backend | `Django` `React` `Redux` `Tailwind` | [**LIVE ↗**](https://Abhishek6827.github.io/Kanban_WorkBoard/) |
+| 🟡 | **Market Explorer** | Seasonal market trend calendar | `React` `Recharts` `Binance API` | [**LIVE ↗**](https://abhishek6827.github.io/Market-Seasonality-Explorer/) |
+| 🟢 | **Skill Up** | Online learning platform | `React` `Bootstrap` `JavaScript` | [**LIVE ↗**](https://Abhishek6827.github.io/Skill_Up/) |
+| 🟣 | **Elante Mall** | Shopping mall directory | `React` `CSS` `JavaScript` | [**LIVE ↗**](https://Abhishek6827.github.io/Elante_Mall/) |
+
+<br/>
+
+<a href="https://abhishek6827.github.io/Portfolio/"><img src="https://img.shields.io/badge/🔗_Explore_All_Projects_→-6366F1?style=for-the-badge&labelColor=0d1117" /></a>
+
+</div>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
+
+## 📊 Stats That Speak
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Abhishek6827&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=a855f7&icon_color=a855f7&text_color=c9d1d9&count_private=true&rank_icon=github" />
+<img width="49%" src="https://github-readme-streak-stats-eight.vercel.app?user=Abhishek6827&theme=radical&hide_border=true&background=0d1117&ring=a855f7&fire=a855f7&currStreakLabel=a855f7" />
+
+<br/>
+
+<!-- GitHub Trophies -->
+<img src="https://github-profile-trophy.vercel.app/?username=Abhishek6827&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=10" width="100%" />
+
+<br/>
+
+<!-- Activity Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Abhishek6827&custom_title=Abhishek's%20Contribution%20Graph&bg_color=0d1117&color=a855f7&line=6366f1&point=a855f7&area_color=6366f1&area=true&hide_border=true" width="98%" />
+
+</div>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 
 ## 🏆 Certifications
 
-| Certification | Issuer | Year |
-|---------------|--------|------|
-| React Developer Certification | Meta | 2025 |
-| Full Stack Web Development | FreeCodeCamp | 2024 |
-| JavaScript Algorithms and Data Structures | FreeCodeCamp | 2023 |
-
----
-
-## 🤝 Connect With Me
-
 <div align="center">
 
-<a href="https://www.linkedin.com/in/abhishek-tiwariiii"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="https://github.com/Abhishek6827"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-<a href="https://abhishek6827.github.io/Portfolio/"><img src="https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" /></a>
-<a href="mailto:abhishektiwari6827@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+| 🥇 | Certification | Issuer | Year |
+|:--:|---------------|--------|:----:|
+| <img src="https://img.shields.io/badge/-Meta-0668E1?style=flat-square&logo=meta&logoColor=white" /> | **React Developer Certification** | Meta | `2025` |
+| <img src="https://img.shields.io/badge/-FCC-0A0A23?style=flat-square&logo=freecodecamp&logoColor=white" /> | **Full Stack Web Development** | FreeCodeCamp | `2024` |
+| <img src="https://img.shields.io/badge/-FCC-0A0A23?style=flat-square&logo=freecodecamp&logoColor=white" /> | **JS Algorithms & Data Structures** | FreeCodeCamp | `2023` |
 
 </div>
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
+
+## 🤝 Let's Build Something Epic
 
 <div align="center">
 
-*"First, solve the problem. Then, write the code."* — John Johnson
+<a href="https://abhishek6827.github.io/Portfolio/"><img src="https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0d1117" /></a>
+<a href="https://www.linkedin.com/in/abhishek-tiwariiii"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" /></a>
+<a href="https://github.com/Abhishek6827"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" /></a>
+<a href="mailto:abhishektiwari6827@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" /></a>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,19,24,30&height=80&section=footer" width="100%" />
+<br/><br/>
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" width="70%" />
 
 </div>
+
+<br/>
+
+<!-- Footer Wave -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" />
