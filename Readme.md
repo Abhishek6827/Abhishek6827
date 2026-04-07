@@ -265,14 +265,14 @@ const abhishek = {
 <img width="49%" src="https://github-readme-streak-stats-eight.vercel.app?user=Abhishek6827&theme=radical&hide_border=true&background=0d1117&ring=a855f7&fire=a855f7&currStreakLabel=a855f7" />
 
 <br/>
-
 <!-- GitHub Trophies -->
-<img src="https://github-profile-trophy-orpin-alpha.vercel.app/?username=Abhishek6827(https://github-profile-trophy-orpin-alpha.vercel.app/?username=Abhishek6827)&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=10" width="100%" />
+<img src="https://github-profile-trophy-orpin-alpha.vercel.app/?username=Abhishek6827&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=10&v=1" width="100%" />
 
 <br/>
 
 <!-- Activity Graph -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abhishek6827&custom_title=Abhishek's+Contribution+Graph&bg_color=0d1117&color=a855f7&line=6366f1&point=a855f7&area_color=6366f1&area=true&hide_border=true" width="98%" />
+
 
 </div>
 
