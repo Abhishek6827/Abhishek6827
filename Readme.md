@@ -88,7 +88,7 @@ const abhishek = {
 
 ### <img src="https://skillicons.dev/icons?i=nextjs" width="18" /> Full Stack Developer
 **Indian Capital & Investment (Coimbatore) Ltd.**  
-`📅 11/2025 – 01/2026`
+`📅 11/2025 – 03/2026`
 
 > <img src="https://skillicons.dev/icons?i=nextjs,firebase" width="28" /> &nbsp;Stripe & Zoho payment gateways · Next.js + Firebase backend · Automated webhooks & Resend notifications · Notion API workflow automation
 
