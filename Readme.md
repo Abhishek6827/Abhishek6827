@@ -46,7 +46,7 @@ const abhishek = {
 </td>
 <td width="45%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishek6827&layout=donut-vertical&theme=radical&hide_border=true&bg_color=0d1117&title_color=a855f7&text_color=c9d1d9&langs_count=6" width="100%" />
+<img src="https://github-readme-stats-7ihy.vercel.app/api/top-langs/?username=Abhishek6827&layout=donut-vertical&theme=radical&hide_border=true&bg_color=0d1117&title_color=a855f7&text_color=c9d1d9&langs_count=6" width="100%" />
 
 </td>
 </tr>
