@@ -267,7 +267,7 @@ const abhishek = {
 <br/>
 
 <!-- GitHub Trophies -->
-<img src="https://github-profile-trophy.vercel.app/?username=Abhishek6827&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=10" width="100%" />
+<img src="https://github-profile-trophy-orpin-alpha.vercel.app/?username=Abhishek6827&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=10" width="100%" />
 
 <br/>
 
