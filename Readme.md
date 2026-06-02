@@ -26,7 +26,7 @@ const abhishek = {
     education: "Postgraduate in Computer Applications 🎓",
     currentRole: "Founder & Full-Stack Developer @ CHINTU AI",
     specialization: ["SaaS Products", "Payment Systems", "AI Integrations", "Desktop Apps"],
-    building: "CHINTU AI — Premium AI Interview Assistant (Electron + Next.js)",
+    building: "CHINTU AI — AI Career Platform for Interviews, Assessments & Resume Tailoring | Real-Time AI Copilot",
     funFact: "I mass produce web apps like a factory 🏭"
 };
 ```
@@ -37,7 +37,7 @@ const abhishek = {
 
 🔥 **What I bring to the table:**
 
-- <img src="https://skillicons.dev/icons?i=nextjs" width="16" /> <img src="https://skillicons.dev/icons?i=react" width="16" /> <img src="https://skillicons.dev/icons?i=electron" width="16" /> <img src="https://skillicons.dev/icons?i=express" width="16" /> <img src="https://skillicons.dev/icons?i=firebase" width="16" /> <img src="https://skillicons.dev/icons?i=mongodb" width="16" /> &nbsp;Full-stack mastery — **Next.js**, **React**, **Electron**, **Express**, **Firebase**, **MongoDB**
+- <img src="https://skillicons.dev/icons?i=nextjs" width="16" /> <img src="https://skillicons.dev/icons?i=react" width="16" /> <img src="https://skillicons.dev/icons?i=electron" width="16" /> <img src="https://skillicons.dev/icons?i=express" width="16" /> <img src="https://skillicons.dev/icons?i=supabase" width="16" /> <img src="https://skillicons.dev/icons?i=mongodb" width="16" /> &nbsp;Full-stack mastery — **Next.js**, **React**, **Electron**, **Express**, **Supabase**, **MongoDB**
 - 🤖 AI Integration — **Gemini**, **OpenAI**, **Groq**, **AssemblyAI** — multi-model orchestration
 - 💳 Payment gateway expert — **Stripe**, **Zoho Payments**, **Razorpay**, webhooks & billing
 - 🏗️ SaaS architect — scalable, production-ready, battle-tested code
@@ -61,16 +61,16 @@ const abhishek = {
 <div align="center">
 
 <a href="https://getchintu.com">
-  <img src="https://img.shields.io/badge/⚡_CHINTU_AI-Premium_AI_Interview_Assistant-8B5CF6?style=for-the-badge&logo=artificial-intelligence&logoColor=white&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/⚡_CHINTU_AI-AI_Career_Platform-8B5CF6?style=for-the-badge&logo=artificial-intelligence&logoColor=white&labelColor=0d1117" />
 </a>
 
 <br/><br/>
 
-> 🎯 **Premium AI Interview Assistant** — AI-powered interview preparation with multi-model intelligence, voice input, technical assessment tools, and 63+ language support. Cross-platform desktop (Electron) + Web. Built with **Next.js · TypeScript · Electron · Firebase · Razorpay · Multi-Model LLM**.
+> 🎯 **AI Career Platform for Interviews, Assessments & Resume Tailoring | Real-Time AI Copilot** — AI-powered career prep with multi-model intelligence, voice input, technical assessment tools, and 63+ language support. Cross-platform desktop (Electron) + Web. Built with **Next.js · TypeScript · Electron · Supabase · Razorpay · Multi-Model LLM**.
 
 <br/>
 
-<img src="https://skillicons.dev/icons?i=nextjs,ts,electron,firebase,tailwind,nodejs&perline=10" />
+<img src="https://skillicons.dev/icons?i=nextjs,ts,electron,supabase,tailwind,nodejs&perline=10" />
 
 <br/><br/>
 
@@ -90,7 +90,7 @@ const abhishek = {
 <img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,tailwind,redux,angular,html,css&perline=9" />
 
 ### 🧠 Backend & Database
-<img src="https://skillicons.dev/icons?i=nodejs,express,django,python,firebase,mongodb,postgres,mysql&perline=8" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,django,python,supabase,mongodb,postgres,mysql&perline=8" />
 
 ### 🤖 AI & Integration
 <img src="https://skillicons.dev/icons?i=openai&perline=1" />
@@ -119,7 +119,7 @@ const abhishek = {
 ### ⚡ Founder & Full-Stack Developer
 **CHINTU AI** · `📅 02/2026 – Present`
 
-<img src="https://skillicons.dev/icons?i=nextjs,electron,firebase" width="42" />&nbsp;&nbsp;Building **CHINTU AI** — a premium AI Interview Assistant SaaS. Electron desktop app + Next.js web platform. Multi-model LLM orchestration (Gemini, OpenAI, Groq). Razorpay billing with 3-tier subscriptions. AI-powered practice sessions, voice input, technical assessment tools, and 63+ language support. Auto-updater pipeline with GitHub Releases.
+<img src="https://skillicons.dev/icons?i=nextjs,electron,supabase" width="42" />&nbsp;&nbsp;Building **CHINTU AI** — AI Career Platform for Interviews, Assessments & Resume Tailoring | Real-Time AI Copilot. Electron desktop app + Next.js web platform. Multi-model LLM orchestration (Gemini, OpenAI, Groq). Razorpay billing with 3-tier subscriptions. AI-powered practice sessions, voice input, technical assessment tools, and 63+ language support. Auto-updater pipeline with GitHub Releases.
 
 ---
 
@@ -153,15 +153,15 @@ const abhishek = {
 
 ## 🚀 Shipped & Deployed
 
-### ⚡ CHINTU AI — Premium AI Interview Assistant &nbsp; [**LIVE ↗**](https://getchintu.com)
+### ⚡ CHINTU AI — AI Career Platform for Interviews, Assessments & Resume Tailoring | Real-Time AI Copilot &nbsp; [**LIVE ↗**](https://getchintu.com)
 
-<img src="https://skillicons.dev/icons?i=nextjs,ts,electron,firebase,tailwind,nodejs&perline=10" />
+<img src="https://skillicons.dev/icons?i=nextjs,ts,electron,supabase,tailwind,nodejs&perline=10" />
 
 <br/>
 
 <img src="https://getchintu.com/5.png" width="70%" alt="CHINTU AI Interface" />
 
-> AI-powered interview preparation platform with **multi-model intelligence**, **voice input**, **technical assessment tools**, and **63+ language support**. Cross-platform desktop app (Electron) + Web platform with Razorpay billing, auto-updater, and intelligent answer synthesis.
+> AI-powered career prep platform for **interviews**, **assessments**, and **resume tailoring**. Multi-model intelligence, voice input, technical assessment tools, and 63+ language support. Cross-platform desktop app (Electron) + Web platform with Razorpay billing, auto-updater, and intelligent answer synthesis.
 
 <details>
 <summary><b>📋 Full Feature List & Architecture (click to expand)</b></summary>
@@ -189,7 +189,7 @@ const abhishek = {
 - **Frontend:** Next.js 14 + TypeScript + Tailwind CSS + Framer Motion
 - **Desktop:** Electron with auto-updater, native protocols, system tray
 - **Backend:** Next.js API Routes + Express microservices
-- **Database:** Firebase + Supabase + SQLite (local)
+- **Database:** Supabase + SQLite (local)
 - **AI:** Google Gemini + OpenAI + Groq + AssemblyAI
 - **Payments:** Razorpay with webhook verification
 - **Languages:** 63+ international locales
@@ -335,8 +335,8 @@ const abhishek = {
 <img width="49%" src="https://github-readme-streak-stats-eight.vercel.app?user=Abhishek6827&theme=radical&hide_border=true&background=0d1117&ring=a855f7&fire=a855f7&currStreakLabel=a855f7" />
 
 <br/>
-<!-- GitHub Trophies — Reviews hidden since 0pt, 2-row layout for balance -->
-<img src="https://github-profile-trophy-orpin-alpha.vercel.app/?username=Abhishek6827&theme=radical&no-frame=true&no-bg=true&column=4&row=2&margin-w=10&margin-h=10&hidden=Reviews" width="100%" />
+<!-- GitHub Trophies — Bottom 4 hidden to show only top performers -->
+<img src="https://github-profile-trophy-orpin-alpha.vercel.app/?username=Abhishek6827&theme=radical&no-frame=true&no-bg=true&column=4&row=1&margin-w=10&margin-h=10&hidden=Reviews,Followers,Issues,PullRequest" width="100%" />
 
 <br/>
 
