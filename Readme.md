@@ -101,10 +101,10 @@ const abhishek = {
 ### 🤖 AI & Integration
 <img src="https://skillicons.dev/icons?i=openai&perline=1" />
 <a href="#"><img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white" /></a>
-<a href="#"><img src="https://img.shields.io/badge/🔥_Groq-F55036?style=for-the-badge&logoColor=white" /></a>
+<a href="#"><img src="https://img.shields.io/badge/⚡_Groq-F55036?style=for-the-badge&logoColor=white" /></a>
 <a href="#"><img src="https://img.shields.io/badge/🎙️_AssemblyAI-2244B5?style=for-the-badge&logoColor=white" /></a>
-<a href="#"><img src="https://img.shields.io/badge/OpenRouter-5A5A5A?style=for-the-badge&logo=openai&logoColor=white" /></a>
-<a href="#"><img src="https://img.shields.io/badge/Dashscope%2FAlibaba-FF6A00?style=for-the-badge&logo=alibabacloud&logoColor=white" /></a>
+<a href="#"><img src="https://img.shields.io/badge/OpenRouter-5A5A5A?style=for-the-badge&logo=openrouter&logoColor=white" /></a>
+<a href="#"><img src="https://img.shields.io/badge/Alibaba-FF6A00?style=for-the-badge&logo=alibabacloud&logoColor=white" /></a>
 <a href="#"><img src="https://img.shields.io/badge/Telegram_Bot-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" /></a>
 <a href="#"><img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" /></a>
 <a href="#"><img src="https://img.shields.io/badge/🔗_Webhooks-6366F1?style=for-the-badge&logoColor=white" /></a>
@@ -118,8 +118,10 @@ const abhishek = {
 <a href="#"><img src="https://img.shields.io/badge/Razorpay-0C2451?style=for-the-badge&logo=razorpay&logoColor=white" /></a>
 
 ### 🔧 DevOps & Tools
-<img src="https://skillicons.dev/icons?i=git,github,githubactions,vercel,vscode,linux,docker,render,n8n&perline=9" />
-<a href="#"><img src="https://img.shields.io/badge/Ngrok-1F1E37?style=for-the-badge&logo=ngrok&logoColor=white" height="48" /></a>
+<img src="https://skillicons.dev/icons?i=git,github,githubactions,vercel,vscode,linux,docker&perline=7" />
+<a href="#"><img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black" /></a>
+<a href="#"><img src="https://img.shields.io/badge/n8n-FF6D5A?style=for-the-badge&logo=n8n&logoColor=white" /></a>
+<a href="#"><img src="https://img.shields.io/badge/Ngrok-1F1E37?style=for-the-badge&logo=ngrok&logoColor=white" /></a>
 
 </div>
 
