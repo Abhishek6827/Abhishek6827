@@ -1,10 +1,9 @@
-
 <div align="center">
 
 <!-- Animated Typing Header -->
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=800&color=A855F7&center=true&vCenter=true&repeat=true&random=false&width=900&height=70&lines=Hey+%F0%9F%91%8B+I'm+Abhishek+Tiwari" alt="Typing SVG" /></a>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=800&color=6366F1&center=true&vCenter=true&repeat=true&random=false&width=800&height=50&lines=Full-Stack+Developer+%7C+Next.js+%26+TypeScript+%7C+SaaS+Builder;Payment+Integration+Expert+(Stripe+%2B+Zoho);15%2B+Production+Apps+Shipped+%26+Deployed;Building+Scalable+Solutions+That+Matter" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=800&color=6366F1&center=true&vCenter=true&repeat=true&random=false&width=800&height=50&lines=Full-Stack+Developer+%7C+Next.js+%26+TypeScript+%7C+SaaS+Builder;Payment+Integration+Expert+(Stripe+%2B+Zoho+%2B+Razorpay);20%2B+Production+Apps+Shipped+%26+Deployed;Building+Scalable+Solutions+That+Matter" alt="Typing SVG" /></a>
 
 <br/>
 
@@ -12,6 +11,7 @@
 <a href="https://portfolio.getchintu.com"><img src="https://img.shields.io/badge/Portfolio-Visit_Now-6366f1?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>&nbsp;
 <a href="https://www.linkedin.com/in/abhishek-tiwariiii"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;
 <a href="mailto:abhishektiwari@getchintu.com"><img src="https://img.shields.io/badge/Gmail-Hire_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;
+<a href="https://getchintu.com"><img src="https://img.shields.io/badge/🚀_CHINTU_AI-LIVE-8B5CF6?style=for-the-badge&logo=rocket&logoColor=white" /></a>&nbsp;
 <img src="https://komarev.com/ghpvc/?username=Abhishek6827&style=for-the-badge&color=a855f7&label=PROFILE+VIEWS" alt="Profile Views" />
 
 </div>
@@ -24,8 +24,9 @@
 const abhishek = {
     location: "Lucknow, India 🇮🇳",
     education: "Postgraduate in Computer Applications 🎓",
-    currentRole: "Full-Stack Developer",
-    specialization: ["SaaS Products", "Payment Systems", "API Integrations"],
+    currentRole: "Founder & Full-Stack Developer @ CHINTU AI",
+    specialization: ["SaaS Products", "Payment Systems", "AI Integrations", "Desktop Apps"],
+    building: "CHINTU AI — Premium AI Interview Assistant (Electron + Next.js)",
     funFact: "I mass produce web apps like a factory 🏭"
 };
 ```
@@ -36,11 +37,12 @@ const abhishek = {
 
 🔥 **What I bring to the table:**
 
-- <img src="https://skillicons.dev/icons?i=nextjs" width="16" /> <img src="https://skillicons.dev/icons?i=react" width="16" /> <img src="https://skillicons.dev/icons?i=express" width="16" /> <img src="https://skillicons.dev/icons?i=firebase" width="16" /> <img src="https://skillicons.dev/icons?i=mongodb" width="16" /> &nbsp;Full-stack mastery — **Next.js**, **React**, **Express**, **Firebase**, **MongoDB**
-- 💳 Payment gateway expert — **Stripe**, **Zoho Payments**, webhooks
+- <img src="https://skillicons.dev/icons?i=nextjs" width="16" /> <img src="https://skillicons.dev/icons?i=react" width="16" /> <img src="https://skillicons.dev/icons?i=electron" width="16" /> <img src="https://skillicons.dev/icons?i=express" width="16" /> <img src="https://skillicons.dev/icons?i=firebase" width="16" /> <img src="https://skillicons.dev/icons?i=mongodb" width="16" /> &nbsp;Full-stack mastery — **Next.js**, **React**, **Electron**, **Express**, **Firebase**, **MongoDB**
+- 🤖 AI Integration — **Gemini**, **OpenAI**, **Groq**, **AssemblyAI** — multi-model orchestration
+- 💳 Payment gateway expert — **Stripe**, **Zoho Payments**, **Razorpay**, webhooks & billing
 - 🏗️ SaaS architect — scalable, production-ready, battle-tested code
-- 🤖 API integrations — Telegram, Resend, Notion, Firebase
-- 🚀 **15+ deployed apps** and counting
+- 🖥️ Cross-platform desktop apps — Electron with auto-updater & native protocols
+- 🚀 **20+ deployed apps** and counting
 - 🌱 Currently learning: **Advanced TypeScript** & **Cloud Architectures**
 
 </td>
@@ -54,6 +56,32 @@ const abhishek = {
 
 ---
 
+## 🚀 Currently Building
+
+<div align="center">
+
+<a href="https://getchintu.com">
+  <img src="https://img.shields.io/badge/⚡_CHINTU_AI-Premium_AI_Interview_Assistant-8B5CF6?style=for-the-badge&logo=artificial-intelligence&logoColor=white&labelColor=0d1117" />
+</a>
+
+<br/><br/>
+
+> 🎯 **Premium AI Interview Assistant** — AI-powered interview preparation with multi-model intelligence, voice input, technical assessment tools, and 63+ language support. Cross-platform desktop (Electron) + Web. Built with **Next.js · TypeScript · Electron · Firebase · Razorpay · Multi-Model LLM**.
+
+<br/>
+
+<img src="https://skillicons.dev/icons?i=nextjs,ts,electron,firebase,tailwind,nodejs&perline=10" />
+
+<br/><br/>
+
+<a href="https://getchintu.com"><img src="https://img.shields.io/badge/🌐_Visit_Live_Site-6366F1?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+&nbsp;
+<a href="https://getchintu.com/pricing"><img src="https://img.shields.io/badge/💎_Pricing_Plans-10B981?style=for-the-badge&logo=stripe&logoColor=white" /></a>
+
+</div>
+
+---
+
 ## 🛠️ Tech Arsenal
 
 <div align="center">
@@ -64,14 +92,20 @@ const abhishek = {
 ### 🧠 Backend & Database
 <img src="https://skillicons.dev/icons?i=nodejs,express,django,python,firebase,mongodb,postgres,mysql&perline=8" />
 
-### 💳 Payment & Integration
-
-<a href="#"><img src="https://img.shields.io/badge/Stripe-008CDD?style=for-the-badge&logo=stripe&logoColor=white" /></a>
-<a href="#"><img src="https://img.shields.io/badge/Zoho_Payments-C8202B?style=for-the-badge&logo=zoho&logoColor=white" /></a>
+### 🤖 AI & Integration
+<img src="https://skillicons.dev/icons?i=openai&perline=1" />
+<a href="#"><img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white" /></a>
+<a href="#"><img src="https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logo=groq&logoColor=white" /></a>
+<a href="#"><img src="https://img.shields.io/badge/AssemblyAI-2244B5?style=for-the-badge&logo=assemblyai&logoColor=white" /></a>
 <a href="#"><img src="https://img.shields.io/badge/Telegram_Bot-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" /></a>
 <a href="#"><img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" /></a>
 <a href="#"><img src="https://img.shields.io/badge/Webhooks-6366F1?style=for-the-badge&logo=webhook&logoColor=white" /></a>
 <a href="#"><img src="https://img.shields.io/badge/Resend_API-000000?style=for-the-badge&logo=minutemailer&logoColor=white" /></a>
+
+### 💳 Payments
+<a href="#"><img src="https://img.shields.io/badge/Stripe-008CDD?style=for-the-badge&logo=stripe&logoColor=white" /></a>
+<a href="#"><img src="https://img.shields.io/badge/Zoho_Payments-C8202B?style=for-the-badge&logo=zoho&logoColor=white" /></a>
+<a href="#"><img src="https://img.shields.io/badge/Razorpay-0C2451?style=for-the-badge&logo=razorpay&logoColor=white" /></a>
 
 ### 🔧 DevOps & Tools
 <img src="https://skillicons.dev/icons?i=git,github,vercel,vscode,linux&perline=5" />
@@ -82,52 +116,88 @@ const abhishek = {
 
 ## 💼 Battle Log (Experience)
 
-<table>
-<tr>
-<td>
+### ⚡ Founder & Full-Stack Developer
+**CHINTU AI** · `📅 02/2026 – Present`
+
+<img src="https://skillicons.dev/icons?i=nextjs,electron,firebase" width="42" />&nbsp;&nbsp;Building **CHINTU AI** — a premium AI Interview Assistant SaaS. Electron desktop app + Next.js web platform. Multi-model LLM orchestration (Gemini, OpenAI, Groq). Razorpay billing with 3-tier subscriptions. AI-powered practice sessions, voice input, technical assessment tools, and 63+ language support. Auto-updater pipeline with GitHub Releases.
+
+---
 
 ### <img src="https://skillicons.dev/icons?i=nextjs" width="18" /> Full Stack Developer
-**Indian Capital & Investment (Coimbatore) Ltd.**  
-`📅 11/2025 – 03/2026`
+**Indian Capital & Investment (Coimbatore) Ltd.** · `📅 11/2025 – 03/2026`
 
-> <img src="https://skillicons.dev/icons?i=nextjs,firebase" width="28" /> &nbsp;Stripe & Zoho payment gateways · Next.js + Firebase backend · Automated webhooks & Resend notifications · Notion API workflow automation
+<img src="https://skillicons.dev/icons?i=nextjs,firebase" width="28" />&nbsp;&nbsp;Stripe & Zoho payment gateways · Next.js + Firebase backend · Automated webhooks & Resend notifications · Notion API workflow automation
 
-</td>
-<td>
+---
 
 ### <img src="https://skillicons.dev/icons?i=react" width="18" /> Software Developer
-**Vasnaani Education**  
-`📅 08/2024 – 10/2025`
+**Vasnaani Education** · `📅 08/2024 – 10/2025`
 
-> <img src="https://skillicons.dev/icons?i=react,django" width="28" /> &nbsp;Official website development · Django REST API + React integration · Performance optimization · Critical UI/UX bug resolution
+<img src="https://skillicons.dev/icons?i=react,django" width="28" />&nbsp;&nbsp;Official website development · Django REST API + React integration · Performance optimization · Critical UI/UX bug resolution
 
-</td>
-</tr>
-<tr>
-<td>
+---
 
 ### <img src="https://skillicons.dev/icons?i=django" width="18" /> Full-Stack Developer Intern
-**Hoping Minds**  
-`📅 01/2024 – 06/2024`
+**Hoping Minds** · `📅 01/2024 – 06/2024`
 
-> <img src="https://skillicons.dev/icons?i=react,redux,django" width="42" /> &nbsp;React + Redux + Django apps · Cross-functional team delivery · Responsive design · Clean code practices
+<img src="https://skillicons.dev/icons?i=react,redux,django" width="42" />&nbsp;&nbsp;React + Redux + Django apps · Cross-functional team delivery · Responsive design · Clean code practices
 
-</td>
-<td>
+---
 
 ### <img src="https://skillicons.dev/icons?i=js" width="18" /> Web Developer
-**Quizario**  
-`📅 11/2023 – 12/2023`
+**Quizario** · `📅 11/2023 – 12/2023`
 
-> <img src="https://skillicons.dev/icons?i=react,js,bootstrap" width="42" /> &nbsp;Interactive quiz applications · User authentication · Data management features · UX optimization
-
-</td>
-</tr>
-</table>
+<img src="https://skillicons.dev/icons?i=react,js,bootstrap" width="42" />&nbsp;&nbsp;Interactive quiz applications · User authentication · Data management features · UX optimization
 
 ---
 
 ## 🚀 Shipped & Deployed
+
+### ⚡ CHINTU AI — Premium AI Interview Assistant &nbsp; [**LIVE ↗**](https://getchintu.com)
+
+<img src="https://skillicons.dev/icons?i=nextjs,ts,electron,firebase,tailwind,nodejs&perline=10" />
+
+<br/>
+
+<img src="https://getchintu.com/5.png" width="70%" alt="CHINTU AI Interface" />
+
+> AI-powered interview preparation platform with **multi-model intelligence**, **voice input**, **technical assessment tools**, and **63+ language support**. Cross-platform desktop app (Electron) + Web platform with Razorpay billing, auto-updater, and intelligent answer synthesis.
+
+<details>
+<summary><b>📋 Full Feature List & Architecture (click to expand)</b></summary>
+
+**🤖 Multi-Model AI Engine**
+- **Standard Engine** — Balanced responses for general practice questions
+- **Pro Engine** — Detailed, contextual answers with memory
+- **Coding Engine** — Specialized for DSA, system design, and technical assessments
+- **Turbo Engine (Elite)** — Ultra-low-latency answers (<200ms)
+- **Scout + Turbo** — Deep analysis with verified fixes for technical problems
+
+**🎙️ Voice & Input**
+- Hold-Space voice input with instant AI synthesis
+- Vision OCR — analyze any question image and get structured answers
+- Minimizable assistant panel for focused practice sessions
+- Universal keyboard shortcuts across all platforms
+
+**💳 Billing & Plans**
+- **Starter** — Free tier with 10 credits/month
+- **Professional** — 100 credits/month, all premium engines
+- **Elite** — 500 credits/month, Turbo Engine, screen recording, dedicated support
+- Razorpay integration with webhook-driven credit management
+
+**🏗️ Architecture**
+- **Frontend:** Next.js 14 + TypeScript + Tailwind CSS + Framer Motion
+- **Desktop:** Electron with auto-updater, native protocols, system tray
+- **Backend:** Next.js API Routes + Express microservices
+- **Database:** Firebase + Supabase + SQLite (local)
+- **AI:** Google Gemini + OpenAI + Groq + AssemblyAI
+- **Payments:** Razorpay with webhook verification
+- **Languages:** 63+ international locales
+- **Deployment:** Vercel (web) + GitHub Releases (Electron auto-updater)
+
+</details>
+
+---
 
 ### 🟣 Social Connect — Full-Stack Real-Time Social Platform &nbsp; [**LIVE ↗**](https://social-media-lemon-six.vercel.app/login)
 
@@ -265,14 +335,22 @@ const abhishek = {
 <img width="49%" src="https://github-readme-streak-stats-eight.vercel.app?user=Abhishek6827&theme=radical&hide_border=true&background=0d1117&ring=a855f7&fire=a855f7&currStreakLabel=a855f7" />
 
 <br/>
-<!-- GitHub Trophies -->
-<img src="https://github-profile-trophy-orpin-alpha.vercel.app/?username=Abhishek6827&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=10&v=1" width="100%" />
+<!-- GitHub Trophies — Reviews hidden since 0pt, 2-row layout for balance -->
+<img src="https://github-profile-trophy-orpin-alpha.vercel.app/?username=Abhishek6827&theme=radical&no-frame=true&no-bg=true&column=4&row=2&margin-w=10&margin-h=10&hidden=Reviews" width="100%" />
 
 <br/>
 
 <!-- Activity Graph -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abhishek6827&custom_title=Abhishek's+Contribution+Graph&bg_color=0d1117&color=a855f7&line=6366f1&point=a855f7&area_color=6366f1&area=true&hide_border=true" width="98%" />
 
+<br/>
+
+<!-- Contribution Snake Animation -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Abhishek6827/Abhishek6827/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Abhishek6827/Abhishek6827/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Abhishek6827/Abhishek6827/output/github-contribution-grid-snake.svg" />
+</picture>
 
 </div>
 
@@ -310,3 +388,25 @@ const abhishek = {
 > ⚡ *"Crafting digital experiences with modern web technologies. Passionate about creating scalable solutions that make a difference."*
 
 </div>
+
+---
+
+<details>
+<summary><b>🎯 How to Level Up Your GitHub Trophies</b></summary>
+
+<br/>
+
+| Trophy | Your Current | How to Increase |
+|--------|:------------:|-----------------|
+| **Commits** | 🏆 S (2.3k pt) | Already strong — keep consistent daily commits |
+| **Repositories** | 🏆 A (36 pt) | Create more public repos (docs, experiments, libraries) |
+| **Experience** | 🏆 A (12 pt) | Longer active streak on GitHub — just keep coding |
+| **Stars** | 🏆 B (15 pt) | Build & share useful open-source projects on Reddit, Twitter, Dev.to |
+| **Followers** | 🏆 C (3 pt) | Engage with the community — follow back, comment on issues, write blogs |
+| **Issues** | 🏆 C (1 pt) | Create meaningful issues on your own repos and contribute to others |
+| **Pull Requests** | 🏆 C (1 pt) | Fork popular repos, fix bugs, add features — submit PRs regularly |
+| **Reviews** | ❌ Hidden (0 pt) | Review other developers' PRs on open-source projects |
+
+> 💡 **Pro Tip:** Pick 2-3 categories and focus on them weekly. Consistency beats intensity. Start with PR reviews and open-source contributions — fastest way to boost multiple trophies at once.
+
+</details>
