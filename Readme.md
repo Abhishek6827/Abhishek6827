@@ -103,14 +103,14 @@ const abhishek = {
 <a href="#"><img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white" /></a>
 <a href="#"><img src="https://img.shields.io/badge/🔥_Groq-F55036?style=for-the-badge&logoColor=white" /></a>
 <a href="#"><img src="https://img.shields.io/badge/🎙️_AssemblyAI-2244B5?style=for-the-badge&logoColor=white" /></a>
-<a href="#"><img src="https://img.shields.io/badge/⚡_OpenRouter-5A5A5A?style=for-the-badge&logo=openai&logoColor=white" /></a>
-<a href="#"><img src="https://img.shields.io/badge/🟠_Dashscope%2FAlibaba-FF6A00?style=for-the-badge&logo=alibabacloud&logoColor=white" /></a>
-<a href="#"><img src="https://img.shields.io/badge/📬_Telegram_Bot-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" /></a>
-<a href="#"><img src="https://img.shields.io/badge/🚀_Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" /></a>
+<a href="#"><img src="https://img.shields.io/badge/OpenRouter-5A5A5A?style=for-the-badge&logo=openai&logoColor=white" /></a>
+<a href="#"><img src="https://img.shields.io/badge/Dashscope%2FAlibaba-FF6A00?style=for-the-badge&logo=alibabacloud&logoColor=white" /></a>
+<a href="#"><img src="https://img.shields.io/badge/Telegram_Bot-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+<a href="#"><img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" /></a>
 <a href="#"><img src="https://img.shields.io/badge/🔗_Webhooks-6366F1?style=for-the-badge&logoColor=white" /></a>
-<a href="#"><img src="https://img.shields.io/badge/📧_Resend_API-000000?style=for-the-badge&logo=minutemailer&logoColor=white" /></a>
-<a href="#"><img src="https://img.shields.io/badge/🔐_Clerk-6C47FF?style=for-the-badge&logo=clerk&logoColor=white" /></a>
-<a href="#"><img src="https://img.shields.io/badge/🧠_Prompt_Engineering-10B981?style=for-the-badge&logo=openai&logoColor=white" /></a>
+<a href="#"><img src="https://img.shields.io/badge/Resend_API-000000?style=for-the-badge&logo=minutemailer&logoColor=white" /></a>
+<a href="#"><img src="https://img.shields.io/badge/Clerk-6C47FF?style=for-the-badge&logo=clerk&logoColor=white" /></a>
+<a href="#"><img src="https://img.shields.io/badge/Prompt_Engineering-10B981?style=for-the-badge&logo=openai&logoColor=white" /></a>
 
 ### 💳 Payments
 <a href="#"><img src="https://img.shields.io/badge/Stripe-008CDD?style=for-the-badge&logo=stripe&logoColor=white" /></a>
@@ -118,10 +118,8 @@ const abhishek = {
 <a href="#"><img src="https://img.shields.io/badge/Razorpay-0C2451?style=for-the-badge&logo=razorpay&logoColor=white" /></a>
 
 ### 🔧 DevOps & Tools
-<img src="https://skillicons.dev/icons?i=git,github,githubactions,vercel,vscode,linux,docker&perline=7" />
-<a href="#"><img src="https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black" /></a>
-<a href="#"><img src="https://img.shields.io/badge/n8n-FF6D5A?style=flat-square&logo=n8n&logoColor=white" /></a>
-<a href="#"><img src="https://img.shields.io/badge/Ngrok-1F1E37?style=flat-square&logo=ngrok&logoColor=white" /></a>
+<img src="https://skillicons.dev/icons?i=git,github,githubactions,vercel,vscode,linux,docker,render,n8n&perline=9" />
+<a href="#"><img src="https://img.shields.io/badge/Ngrok-1F1E37?style=for-the-badge&logo=ngrok&logoColor=white" height="48" /></a>
 
 </div>
 
