@@ -117,8 +117,10 @@ const abhishek = {
 <a href="#"><img src="https://img.shields.io/badge/Zoho_Payments-C8202B?style=for-the-badge&logo=zoho&logoColor=white" /></a>
 <a href="#"><img src="https://img.shields.io/badge/Razorpay-0C2451?style=for-the-badge&logo=razorpay&logoColor=white" /></a>
 
-### � Cross-Platform
-<img src="https://skillicons.dev/icons?i=electron,apple,android&perline=3" />
+### 📱 Cross-Platform
+<a href="#"><img src="https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white" /></a>
+<a href="#"><img src="https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white" /></a>
+<a href="#"><img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" /></a>
 
 
 ### 🔧 DevOps & Tools
