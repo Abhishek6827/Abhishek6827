@@ -80,9 +80,9 @@ const abhishek = {
 
 <br/><br/>
 
-<a href="https://getchintu.com"><img src="https://img.shields.io/badge/🌐_Visit_Live_Site-6366F1?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+<a href="https://getchintu.com"><img src="https://img.shields.io/badge/_Visit_Live_Site-6366F1?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
 &nbsp;
-<a href="https://getchintu.com/pricing"><img src="https://img.shields.io/badge/💎_Pricing_Plans-10B981?style=for-the-badge&logo=stripe&logoColor=white" /></a>
+<a href="https://getchintu.com/pricing"><img src="https://img.shields.io/badge/_Pricing_Plans-10B981?style=for-the-badge&logo=stripe&logoColor=white" /></a>
 
 </div>
 
