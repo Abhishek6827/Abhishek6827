@@ -38,7 +38,7 @@ const abhishek = {
 🔥 **What I bring to the table:**
 
 - <img src="https://skillicons.dev/icons?i=nextjs" width="16" /> <img src="https://skillicons.dev/icons?i=react" width="16" /> <img src="https://skillicons.dev/icons?i=electron" width="16" /> <img src="https://skillicons.dev/icons?i=express" width="16" /> <img src="https://skillicons.dev/icons?i=supabase" width="16" /> <img src="https://skillicons.dev/icons?i=mongodb" width="16" /> &nbsp;Full-stack mastery — **Next.js**, **React**, **Electron**, **Express**, **Supabase**, **MongoDB**
-- 🤖 AI Integration — **Gemini**, **OpenAI**, **Groq**, **AssemblyAI** — multi-model orchestration
+- 🤖 AI Integration — **Alibaba**, **OpenAI**, **Groq**, **AssemblyAI** — multi-model orchestration
 - 💳 Payment gateway expert — **Stripe**, **Zoho Payments**, **Razorpay**, webhooks & billing
 - 🏗️ SaaS architect — scalable, production-ready, battle-tested code
 - 🖥️ Cross-platform apps — Electron desktop (Windows EXE/MacOS DMG) + Android APK + Web
@@ -209,7 +209,7 @@ const abhishek = {
 - **Desktop:** Electron with auto-updater, native protocols, system tray
 - **Backend:** Next.js API Routes + Express microservices
 - **Database:** Supabase + SQLite (local)
-- **AI:** Google Gemini + OpenAI + Groq + AssemblyAI
+- **AI:** Alibaba + OpenAI + Groq + AssemblyAI
 - **Payments:** Razorpay with webhook verification
 - **Languages:** 63+ international locales
 - **Deployment:** Vercel (web) + GitHub Releases (Electron auto-updater)
