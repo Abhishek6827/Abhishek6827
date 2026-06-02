@@ -61,6 +61,12 @@ const abhishek = {
 <div align="center">
 
 <a href="https://getchintu.com">
+  <img src="https://getchintu.com/icon.png" width="80" alt="CHINTU AI Logo" style="border-radius: 20px; margin-bottom: 12px;" />
+</a>
+
+<br/>
+
+<a href="https://getchintu.com">
   <img src="https://img.shields.io/badge/⚡_CHINTU_AI-AI_Career_Platform-8B5CF6?style=for-the-badge&logo=artificial-intelligence&logoColor=white&labelColor=0d1117" />
 </a>
 
