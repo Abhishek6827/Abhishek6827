@@ -103,6 +103,8 @@ const abhishek = {
 <a href="#"><img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white" /></a>
 <a href="#"><img src="https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logo=groq&logoColor=white" /></a>
 <a href="#"><img src="https://img.shields.io/badge/AssemblyAI-2244B5?style=for-the-badge&logo=assemblyai&logoColor=white" /></a>
+<a href="#"><img src="https://img.shields.io/badge/OpenRouter-5A5A5A?style=for-the-badge&logo=openai&logoColor=white" /></a>
+<a href="#"><img src="https://img.shields.io/badge/Dashscope%2FAlibaba-FF6A00?style=for-the-badge&logo=alibabacloud&logoColor=white" /></a>
 <a href="#"><img src="https://img.shields.io/badge/Telegram_Bot-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" /></a>
 <a href="#"><img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" /></a>
 <a href="#"><img src="https://img.shields.io/badge/Webhooks-6366F1?style=for-the-badge&logo=webhook&logoColor=white" /></a>
@@ -130,7 +132,7 @@ const abhishek = {
 ---
 
 ### <img src="https://skillicons.dev/icons?i=nextjs" width="18" /> Full Stack Developer
-**Indian Capital & Investment (Coimbatore) Ltd.** · `📅 11/2025 – 03/2026`
+**Indian Capital & Investment (Coimbatore) Ltd.** · `📅 11/2025 – 02/2026`
 
 <img src="https://skillicons.dev/icons?i=nextjs,firebase" width="28" />&nbsp;&nbsp;Stripe & Zoho payment gateways · Next.js + Firebase backend · Automated webhooks & Resend notifications · Notion API workflow automation
 
@@ -395,24 +397,3 @@ const abhishek = {
 
 </div>
 
----
-
-<details>
-<summary><b>🎯 How to Level Up Your GitHub Trophies</b></summary>
-
-<br/>
-
-| Trophy | Your Current | How to Increase |
-|--------|:------------:|-----------------|
-| **Commits** | 🏆 S (2.3k pt) | Already strong — keep consistent daily commits |
-| **Repositories** | 🏆 A (36 pt) | Create more public repos (docs, experiments, libraries) |
-| **Experience** | 🏆 A (12 pt) | Longer active streak on GitHub — just keep coding |
-| **Stars** | 🏆 B (15 pt) | Build & share useful open-source projects on Reddit, Twitter, Dev.to |
-| **Followers** | 🏆 C (3 pt) | Engage with the community — follow back, comment on issues, write blogs |
-| **Issues** | 🏆 C (1 pt) | Create meaningful issues on your own repos and contribute to others |
-| **Pull Requests** | 🏆 C (1 pt) | Fork popular repos, fix bugs, add features — submit PRs regularly |
-| **Reviews** | ❌ Hidden (0 pt) | Review other developers' PRs on open-source projects |
-
-> 💡 **Pro Tip:** Pick 2-3 categories and focus on them weekly. Consistency beats intensity. Start with PR reviews and open-source contributions — fastest way to boost multiple trophies at once.
-
-</details>
