@@ -41,7 +41,7 @@ const abhishek = {
 - 🤖 AI Integration — **Gemini**, **OpenAI**, **Groq**, **AssemblyAI** — multi-model orchestration
 - 💳 Payment gateway expert — **Stripe**, **Zoho Payments**, **Razorpay**, webhooks & billing
 - 🏗️ SaaS architect — scalable, production-ready, battle-tested code
-- 🖥️ Cross-platform desktop apps — Electron with auto-updater & native protocols
+- 🖥️ Cross-platform apps — Electron desktop (Windows EXE/MacOS DMG) + Android APK + Web
 - 🚀 **20+ deployed apps** and counting
 - 🌱 Currently learning: **Advanced TypeScript** & **Cloud Architectures**
 
@@ -72,7 +72,7 @@ const abhishek = {
 
 <br/><br/>
 
-> 🎯 **AI Career Platform for Interviews, Assessments & Resume Tailoring | Real-Time AI Copilot** — AI-powered career prep with multi-model intelligence, voice input, technical assessment tools, and 63+ language support. Cross-platform desktop (Electron) + Web. Built with **Next.js · TypeScript · Electron · Supabase · Razorpay · Multi-Model LLM**.
+> 🎯 **AI Career Platform for Interviews, Assessments & Resume Tailoring | Real-Time AI Copilot** — AI-powered career prep with multi-model intelligence, voice input, technical assessment tools, and 63+ language support. Cross-platform — Desktop (Electron · Windows/Mac DMG), Android APK, and Web. Built with **Next.js · TypeScript · Electron · Supabase · Razorpay · Multi-Model LLM**.
 
 <br/>
 
@@ -117,6 +117,10 @@ const abhishek = {
 <a href="#"><img src="https://img.shields.io/badge/Zoho_Payments-C8202B?style=for-the-badge&logo=zoho&logoColor=white" /></a>
 <a href="#"><img src="https://img.shields.io/badge/Razorpay-0C2451?style=for-the-badge&logo=razorpay&logoColor=white" /></a>
 
+### � Cross-Platform
+<img src="https://skillicons.dev/icons?i=electron,apple,android&perline=3" />
+
+
 ### 🔧 DevOps & Tools
 <img src="https://skillicons.dev/icons?i=git,github,githubactions,vercel,vscode,linux,docker&perline=7" />
 <a href="#"><img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black" /></a>
@@ -132,7 +136,7 @@ const abhishek = {
 ### ⚡ Founder & Full-Stack Developer
 **CHINTU AI** · `📅 02/2026 – Present`
 
-<img src="https://skillicons.dev/icons?i=nextjs,electron,supabase" width="42" />&nbsp;&nbsp;Building **CHINTU AI** — AI Career Platform for Interviews, Assessments & Resume Tailoring | Real-Time AI Copilot. Electron desktop app + Next.js web platform. Multi-model LLM orchestration (Gemini, OpenAI, Groq). Razorpay billing with 3-tier subscriptions. AI-powered practice sessions, voice input, technical assessment tools, and 63+ language support. Auto-updater pipeline with GitHub Releases.
+<img src="https://skillicons.dev/icons?i=nextjs,electron,supabase" width="42" />&nbsp;&nbsp;Building **CHINTU AI** — AI Career Platform for Interviews, Assessments & Resume Tailoring | Real-Time AI Copilot. Electron desktop app (Windows/Mac DMG) + Android APK + Next.js web platform. Multi-model LLM orchestration (Alibaba, OpenAI, Groq). Razorpay billing with 3-tier subscriptions. AI-powered practice sessions, voice input, technical assessment tools, and 63+ language support. Auto-updater pipeline with GitHub Releases.
 
 ---
 
@@ -174,7 +178,7 @@ const abhishek = {
 
 <img src="https://getchintu.com/5.png" width="70%" alt="CHINTU AI Interface" />
 
-> AI-powered career prep platform for **interviews**, **assessments**, and **resume tailoring**. Multi-model intelligence, voice input, technical assessment tools, and 63+ language support. Cross-platform desktop app (Electron) + Web platform with Razorpay billing, auto-updater, and intelligent answer synthesis.
+> AI-powered career prep platform for **interviews**, **assessments**, and **resume tailoring**. Multi-model intelligence, voice input, technical assessment tools, and 63+ language support. Cross-platform — Desktop (Electron · Windows/Mac DMG), Android APK, and Web with Razorpay billing, auto-updater, and intelligent answer synthesis.
 
 <details>
 <summary><b>📋 Full Feature List & Architecture (click to expand)</b></summary>
