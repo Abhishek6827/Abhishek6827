@@ -135,7 +135,7 @@ const abhishek = {
 
 ## 💼 Battle Log (Experience)
 
-### ⚡ Founder & Full-Stack Developer
+### ⚡ Full-Stack Developer
 **CHINTU AI** · `📅 02/2026 – Present`
 
 <img src="https://skillicons.dev/icons?i=nextjs,electron,supabase" width="42" />&nbsp;&nbsp;Building **CHINTU AI** — AI Career Platform for Interviews, Assessments & Resume Tailoring | Real-Time AI Copilot. Electron desktop app (Windows/Mac DMG) + Android APK + Next.js web platform. Multi-model LLM orchestration (Alibaba, OpenAI, Groq). Razorpay billing with 3-tier subscriptions. AI-powered practice sessions, voice input, technical assessment tools, and 63+ language support. Auto-updater pipeline with GitHub Releases.
