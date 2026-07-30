@@ -218,7 +218,7 @@ const abhishek = {
 
 ---
 
-### 🟣 Social Connect — Full-Stack Real-Time Social Platform &nbsp; [**LIVE ↗**](https://social-media-lemon-six.vercel.app/login)
+### 🟣 Social Connect — Full-Stack Real-Time Social Platform &nbsp; [**LIVE ↗**](https://socialconnect.getchintu.com/login)
 
 <img src="https://skillicons.dev/icons?i=angular,ts,express,nodejs,mongodb&perline=10" />
 
