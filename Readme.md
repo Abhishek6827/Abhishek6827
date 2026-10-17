@@ -28,9 +28,25 @@
 
 <br/><br/>
 
-<!-- ANIMATED SVG 05: CONNECT & SOCIAL CTA (Opens LinkedIn Profile) -->
+<!-- SECTION 05: CONNECT & SOCIAL CTA -->
+<img src="./assets/connect-header.svg?v=1" alt="Connect with Abhishek Tiwari" width="100%" />
+
+<br/><br/>
+
 <a href="https://www.linkedin.com/in/abhishek-tiwariiii">
-  <img src="./assets/connect.svg?v=3" alt="Connect with Abhishek Tiwari" width="100%" />
+  <img src="./assets/connect-linkedin.svg?v=1" alt="LinkedIn Profile" width="49%" />
+</a>
+<a href="https://portfolio.getchintu.com">
+  <img src="./assets/connect-portfolio.svg?v=1" alt="Personal Portfolio" width="49%" />
+</a>
+
+<br/>
+
+<a href="https://getchintu.com">
+  <img src="./assets/connect-chintu.svg?v=1" alt="CHINTU AI Platform" width="49%" />
+</a>
+<a href="mailto:abhishektiwari@getchintu.com">
+  <img src="./assets/connect-email.svg?v=1" alt="Direct Email" width="49%" />
 </a>
 
 <br/><br/>
@@ -74,9 +90,36 @@
 
 <br/><br/>
 
-<!-- SECTION 05: MORE PROJECTS (ECOSYSTEM REPOSITORY) -->
+<!-- SECTION 06: MORE PROJECTS (ECOSYSTEM PRODUCTION APPS) -->
 <a href="https://portfolio.getchintu.com">
-  <img src="./assets/more-projects.svg?v=3" alt="Abhishek Tiwari — Ecosystem Production Apps" width="100%" />
+  <img src="./assets/more-projects-header.svg?v=1" alt="Abhishek Tiwari — Ecosystem Production Apps" width="100%" />
+</a>
+
+<br/><br/>
+
+<a href="https://tempomail.getchintu.com">
+  <img src="./assets/tile-tempusmail.svg?v=1" alt="Tempusmail" width="49%" />
+</a>
+<a href="https://abhishek6827.github.io/E-commerce/">
+  <img src="./assets/tile-myntra.svg?v=1" alt="Myntra Clone" width="49%" />
+</a>
+
+<br/>
+
+<a href="https://abhishek6827.github.io/Kanban_WorkBoard/">
+  <img src="./assets/tile-kanban.svg?v=1" alt="Kanban WorkBoard" width="49%" />
+</a>
+<a href="https://abhishek6827.github.io/Market-Seasonality-Explorer/">
+  <img src="./assets/tile-market.svg?v=1" alt="Market Explorer" width="49%" />
+</a>
+
+<br/>
+
+<a href="https://abhishek6827.github.io/Skill_Up/">
+  <img src="./assets/tile-skillup.svg?v=1" alt="Skill Up" width="49%" />
+</a>
+<a href="https://abhishek6827.github.io/Elante_Mall/">
+  <img src="./assets/tile-elante.svg?v=1" alt="Elante Mall" width="49%" />
 </a>
 
 <br/><br/>
@@ -120,7 +163,7 @@
 <br/><br/>
 
 <!-- PROFILE VIEWS COUNTER -->
-<img src="https://komarev.com/ghpvc/?username=Abhishek6827&style=for-the-badge&color=247bff&label=👁️+PROFILE+VIEWS" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=Abhishek6827&style=for-the-badge&color=247bff&label=PROFILE+VIEWS" alt="Profile Views" />
 
 <br/><br/>
 

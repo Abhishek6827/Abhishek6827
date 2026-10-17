@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 440 104" width="440" height="104" style="background:#0b1224; border-radius:12px; font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Inter', Roboto, Helvetica, Arial, sans-serif;">
+  <defs>
+    <linearGradient id="tile-grad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#a855f7" stop-opacity="0.3"/>
+      <stop offset="100%" stop-color="#a855f7" stop-opacity="0.05"/>
+    </linearGradient>
+  </defs>
+
+  <style>
+    @media (prefers-reduced-motion: reduce) {
+      .tile-nudge { animation: none !important; }
+    }
+    .tile-nudge {
+      animation: tileNudge 1.6s ease-in-out infinite;
+    }
+    @keyframes tileNudge {
+      0%, 100% { transform: translateX(0); }
+      50% { transform: translateX(3px); }
+    }
+  </style>
+
+  <!-- Background Base -->
+  <rect width="440" height="104" rx="12" fill="#0b1224"/>
+  <rect x="0.75" y="0.75" width="438.5" height="102.5" rx="11.25" fill="none" stroke="#1e293b" stroke-width="1.2"/>
+  <rect x="0.75" y="0.75" width="438.5" height="102.5" rx="11.25" fill="none" stroke="url(#tile-grad)" stroke-width="1.2"/>
+
+  <!-- Content -->
+  <g transform="translate(20, 18)">
+    <!-- Top Row: Name and Live Badge -->
+    <text x="0" y="14" fill="#ffffff" font-size="15" font-weight="700">Elante Mall</text>
+
+    <!-- Badge on Right -->
+    <g class="tile-nudge" transform="translate(315, 0)">
+      <rect width="84" height="22" rx="5" fill="#0e172a" stroke="#a855f7" stroke-width="0.9"/>
+      <text x="42" y="15" fill="#a855f7" font-family="'Fira Code', 'JetBrains Mono', 'SFMono-Regular', Consolas, monospace" font-size="9.5" font-weight="700" text-anchor="middle">LIVE APP ↗</text>
+    </g>
+
+    <!-- Description -->
+    <text x="0" y="38" fill="#94a3b8" font-size="11.5">Commercial shopping mall directory &amp; showcase</text>
+
+    <!-- Tech Stack Pill Bar -->
+    <g transform="translate(0, 50)">
+      <rect width="400" height="20" rx="4" fill="#070b16"/>
+      <circle cx="12" cy="10" r="3" fill="#a855f7"/>
+      <text x="22" y="14" fill="#a855f7" font-family="'Fira Code', 'JetBrains Mono', 'SFMono-Regular', Consolas, monospace" font-size="10" font-weight="600">React · JavaScript · CSS</text>
+    </g>
+  </g>
+</svg>
