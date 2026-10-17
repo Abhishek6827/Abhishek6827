@@ -1,27 +1,37 @@
 <div align="center">
 
-<!-- ANIMATED SVG 01: HERO -->
-<img src="./assets/hero.svg?v=2" alt="Abhishek Tiwari — Hero Profile" width="100%" />
+<!-- ANIMATED SVG 01: HERO (Opens Abhishek's Live Portfolio) -->
+<a href="https://portfolio.getchintu.com">
+  <img src="./assets/hero.svg?v=3" alt="Abhishek Tiwari — Hero Profile" width="100%" />
+</a>
 
 <br/><br/>
 
-<!-- ANIMATED SVG 02: ABOUT & CAPABILITIES CAROUSEL -->
-<img src="./assets/about-life.svg?v=3" alt="Abhishek Tiwari — Capabilities & Life Carousel" width="100%" />
+<!-- ANIMATED SVG 02: ABOUT & CAPABILITIES CAROUSEL (Jumps to Experience / Battle Log) -->
+<a href="#experience">
+  <img src="./assets/about-life.svg?v=4" alt="Abhishek Tiwari — Capabilities & Life Carousel" width="100%" />
+</a>
 
 <br/><br/>
 
-<!-- ANIMATED SVG 03: TECH ARSENAL ORBITS -->
-<img src="./assets/stack.svg?v=5" alt="Abhishek Tiwari — Tech Arsenal Orbit" width="100%" />
+<!-- ANIMATED SVG 03: TECH ARSENAL ORBITS (Jumps to Shipped & Deployed Projects) -->
+<a href="#projects">
+  <img src="./assets/stack.svg?v=6" alt="Abhishek Tiwari — Tech Arsenal Orbit" width="100%" />
+</a>
 
 <br/><br/>
 
-<!-- ANIMATED SVG 04: ID BADGE & VERIFIED METRICS -->
-<img src="./assets/id-dashboard.svg?v=2" alt="Abhishek Tiwari — ID Badge & Credentials Dashboard" width="100%" />
+<!-- ANIMATED SVG 04: ID BADGE & VERIFIED METRICS (Opens GitHub Repositories) -->
+<a href="https://github.com/Abhishek6827?tab=repositories">
+  <img src="./assets/id-dashboard.svg?v=3" alt="Abhishek Tiwari — ID Badge & Credentials Dashboard" width="100%" />
+</a>
 
 <br/><br/>
 
-<!-- ANIMATED SVG 05: CONNECT & SOCIAL CTA -->
-<img src="./assets/connect.svg?v=2" alt="Connect with Abhishek Tiwari" width="100%" />
+<!-- ANIMATED SVG 05: CONNECT & SOCIAL CTA (Opens LinkedIn Profile) -->
+<a href="https://www.linkedin.com/in/abhishek-tiwariiii">
+  <img src="./assets/connect.svg?v=3" alt="Connect with Abhishek Tiwari" width="100%" />
+</a>
 
 <br/>
 
@@ -37,6 +47,7 @@
 
 ---
 
+<a id="experience"></a>
 ## 💼 Battle Log (Experience)
 
 ### ⚡ Full-Stack Developer
@@ -74,6 +85,7 @@
 
 ---
 
+<a id="projects"></a>
 ## 🚀 Shipped &amp; Deployed Flagship Projects
 
 ### ⚡ 01. CHINTU AI — AI Career Platform &amp; Real-Time Copilot &nbsp; [**LIVE ↗**](https://getchintu.com)
@@ -285,6 +297,7 @@
 
 ---
 
+<a id="stats"></a>
 ## 📊 Stats That Speak
 
 <div align="center">
@@ -314,6 +327,7 @@
 
 ---
 
+<a id="certifications"></a>
 ## 🏆 Certifications
 
 <div align="center">
