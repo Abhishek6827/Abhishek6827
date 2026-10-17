@@ -9,14 +9,14 @@
 
 <!-- ANIMATED SVG 02: ABOUT & CAPABILITIES CAROUSEL (Jumps to Experience / Battle Log) -->
 <a href="#experience">
-  <img src="./assets/about-life.svg?v=5" alt="Abhishek Tiwari — Capabilities & Life Carousel" width="100%" />
+  <img src="./assets/about-life.svg?v=6" alt="Abhishek Tiwari — Capabilities & Life Philosophy" width="100%" />
 </a>
 
 <br/><br/>
 
 <!-- ANIMATED SVG 03: TECH ARSENAL ORBITS (Jumps to Shipped & Deployed Projects) -->
 <a href="#projects">
-  <img src="./assets/stack.svg?v=6" alt="Abhishek Tiwari — Tech Arsenal Orbit" width="100%" />
+  <img src="./assets/stack.svg?v=7" alt="Abhishek Tiwari — Revolving Tech Galaxy" width="100%" />
 </a>
 
 <br/><br/>
