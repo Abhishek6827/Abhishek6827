@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 90" width="900" height="90" style="background:#070b16; border-radius:20px; font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Inter', Roboto, Helvetica, Arial, sans-serif;">
+  <defs>
+    <linearGradient id="sh-border" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#247bff" stop-opacity="0.8"/>
+      <stop offset="50%" stop-color="#ff354f" stop-opacity="0.4"/>
+      <stop offset="100%" stop-color="#247bff" stop-opacity="0.2"/>
+    </linearGradient>
+    <pattern id="sh-dots" width="24" height="24" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="1" fill="#334155" opacity="0.35"/>
+    </pattern>
+  </defs>
+
+  <!-- Background Base -->
+  <rect width="900" height="90" rx="20" fill="#070b16"/>
+  <rect width="900" height="90" fill="url(#sh-dots)"/>
+  <rect x="0.75" y="0.75" width="898.5" height="88.5" rx="19.25" fill="none" stroke="url(#sh-border)" stroke-width="1.5"/>
+
+  <!-- Content -->
+  <g transform="translate(50, 32)">
+    <rect width="210" height="26" rx="6" fill="#0e172a" stroke="#247bff" stroke-width="1" stroke-opacity="0.6"/>
+    <text x="105" y="17" fill="#38bdf8" font-family="'Fira Code', 'JetBrains Mono', 'SFMono-Regular', Consolas, monospace" font-size="11" font-weight="700" text-anchor="middle" letter-spacing="1.5">
+      06 // STATS THAT SPEAK
+    </text>
+    <text x="228" y="18" fill="#94a3b8" font-family="'Fira Code', 'JetBrains Mono', 'SFMono-Regular', Consolas, monospace" font-size="11.5">REAL-TIME GITHUB INTELLIGENCE &amp; STREAKS</text>
+
+    <!-- Right Live Counter Badge -->
+    <g transform="translate(630, 0)">
+      <rect width="170" height="26" rx="6" fill="#0b1224" stroke="#a855f7" stroke-width="1"/>
+      <circle cx="16" cy="13" r="4" fill="#a855f7"/>
+      <text x="28" y="17" fill="#c084fc" font-family="'Fira Code', 'JetBrains Mono', 'SFMono-Regular', Consolas, monospace" font-size="10.5" font-weight="700">VERIFIED METRICS ⚡</text>
+    </g>
+  </g>
+</svg>
