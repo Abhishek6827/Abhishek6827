@@ -11,7 +11,7 @@
 <br/><br/>
 
 <!-- ANIMATED SVG 03: TECH ARSENAL ORBITS -->
-<img src="./assets/stack.svg?v=1" alt="Abhishek Tiwari — Tech Arsenal Orbit" width="100%" />
+<img src="./assets/stack.svg?v=2" alt="Abhishek Tiwari — Tech Arsenal Orbit" width="100%" />
 
 <br/><br/>
 
