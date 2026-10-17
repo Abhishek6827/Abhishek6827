@@ -101,9 +101,9 @@
 
       <!-- Row 3: Architecture & Systems -->
       <g transform="translate(0, 88)">
-        <text x="0" y="16" fill="#38bdf8" font-size="13">👥</text>
-        <text x="22" y="16" fill="#ffffff" font-size="12.5" font-weight="700">Community &amp; Mentorship</text>
-        <text x="22" y="31" fill="#94a3b8" font-size="10.5">Making the next step less uncertain for engineers.</text>
+        <text x="0" y="16" fill="#38bdf8" font-size="13">⚡</text>
+        <text x="22" y="16" fill="#ffffff" font-size="12.5" font-weight="700">Scalable Systems &amp; APIs</text>
+        <text x="22" y="31" fill="#94a3b8" font-size="10.5">High-throughput microservices, low latency &amp; robust backends.</text>
       </g>
     </g>
   </g>
@@ -170,21 +170,19 @@
       </g>
     </g>
 
-    <!-- Bottom Mentorship Callout: MAKE THE NEXT MOVE -->
+    <!-- Bottom AI Callout: THE NEXT AI FRONTIER -->
     <g transform="translate(24, 264)">
       <text x="0" y="14" fill="#64748b" font-family="'Fira Code', 'JetBrains Mono', 'SFMono-Regular', Consolas, monospace" font-size="9.5" font-weight="700" letter-spacing="1">
-        MAKE THE NEXT MOVE.
+        THE NEXT AI FRONTIER.
+      </text>
+      <text x="355" y="14" fill="#475569" font-family="'Fira Code', 'JetBrains Mono', 'SFMono-Regular', Consolas, monospace" font-size="10" font-weight="700" text-anchor="end">
+        02 / 03
       </text>
       <text x="0" y="42" fill="#ffffff" font-size="18" font-weight="900">
-        1:1 Career Mentorship
+        Autonomous AI &amp; Copilots
       </text>
       <text x="0" y="64" fill="#38bdf8" font-size="11.5">
-        A clearer roadmap. A stronger engineer.
-      </text>
-
-      <!-- Counter Badge -->
-      <text x="355" y="64" fill="#475569" font-family="'Fira Code', 'JetBrains Mono', 'SFMono-Regular', Consolas, monospace" font-size="10" font-weight="700" text-anchor="end">
-        02 / 03
+        Sub-200ms latency. Multi-model agents. Shipped to production.
       </text>
     </g>
   </g>

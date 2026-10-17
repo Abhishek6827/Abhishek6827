@@ -9,7 +9,7 @@
 
 <!-- ANIMATED SVG 02: ABOUT & CAPABILITIES CAROUSEL (Jumps to Experience / Battle Log) -->
 <a href="#experience">
-  <img src="./assets/about-life.svg?v=6" alt="Abhishek Tiwari — Capabilities & Life Philosophy" width="100%" />
+  <img src="./assets/about-life.svg?v=7" alt="Abhishek Tiwari — Capabilities & Life Philosophy" width="100%" />
 </a>
 
 <br/><br/>
