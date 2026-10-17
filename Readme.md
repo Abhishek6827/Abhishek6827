@@ -163,7 +163,7 @@
 <br/><br/>
 
 <!-- PROFILE VIEWS COUNTER -->
-<img src="https://komarev.com/ghpvc/?username=Abhishek6827&style=for-the-badge&color=247bff&label=PROFILE+VIEWS" alt="Profile Views" />
+<img src="https://api.visitorbadge.io/api/visitors?path=Abhishek6827.github.profile&label=PROFILE%20VIEWS&labelColor=0b1224&countColor=247bff&style=for-the-badge" alt="Profile Views" />
 
 <br/><br/>
 

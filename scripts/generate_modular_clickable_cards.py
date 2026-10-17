@@ -192,11 +192,13 @@ def build_connect_button(icon_type, title, subtitle, badge_text, badge_color, bo
   </g>
 
   <!-- Right Action Badge -->
-  <g transform="translate(325, 25)">
-    <rect width="98" height="26" rx="6" fill="#0e172a" stroke="{badge_color}" stroke-width="1"/>
-    <text x="43" y="17" fill="{badge_color}" font-family="{FONT_MONO}" font-size="10" font-weight="700" text-anchor="middle">{esc_badge_text}</text>
-    <g class="btn-arrow" transform="translate(74, 17)">
-      <text x="0" y="0" fill="{badge_color}" font-size="12" font-weight="700">→</text>
+  <g transform="translate(315, 25)">
+    <rect width="108" height="26" rx="6" fill="#0e172a" stroke="{badge_color}" stroke-width="1"/>
+    <text x="44" y="17" fill="{badge_color}" font-family="{FONT_MONO}" font-size="10" font-weight="700" text-anchor="middle">{esc_badge_text}</text>
+    <g transform="translate(80, 17)">
+      <g class="btn-arrow">
+        <text x="0" y="0" fill="{badge_color}" font-size="12" font-weight="700">→</text>
+      </g>
     </g>
   </g>
 </svg>'''
@@ -279,19 +281,21 @@ def build_project_tile(name, desc, stack, badge, color):
   <!-- Content -->
   <g transform="translate(20, 18)">
     <!-- Top Row: Name and Live Badge -->
-    <text x="0" y="14" fill="#ffffff" font-size="15" font-weight="700">{esc_name}</text>
+    <text x="0" y="16" fill="#ffffff" font-size="15" font-weight="700">{esc_name}</text>
 
-    <!-- Badge on Right -->
-    <g class="tile-nudge" transform="translate(315, 0)">
-      <rect width="84" height="22" rx="5" fill="#0e172a" stroke="{color}" stroke-width="0.9"/>
-      <text x="42" y="15" fill="{color}" font-family="{FONT_MONO}" font-size="9.5" font-weight="700" text-anchor="middle">{esc_badge}</text>
+    <!-- Badge on Right (Outer G sets static x=315, Inner G nudges) -->
+    <g transform="translate(315, 0)">
+      <g class="tile-nudge">
+        <rect width="84" height="22" rx="5" fill="#0e172a" stroke="{color}" stroke-width="0.9"/>
+        <text x="42" y="15" fill="{color}" font-family="{FONT_MONO}" font-size="9.5" font-weight="700" text-anchor="middle">{esc_badge}</text>
+      </g>
     </g>
 
     <!-- Description -->
-    <text x="0" y="38" fill="#94a3b8" font-size="11.5">{esc_desc}</text>
+    <text x="0" y="40" fill="#94a3b8" font-size="11.5">{esc_desc}</text>
 
     <!-- Tech Stack Pill Bar -->
-    <g transform="translate(0, 50)">
+    <g transform="translate(0, 52)">
       <rect width="400" height="20" rx="4" fill="#070b16"/>
       <circle cx="12" cy="10" r="3" fill="{color}"/>
       <text x="22" y="14" fill="{color}" font-family="{FONT_MONO}" font-size="10" font-weight="600">{esc_stack}</text>

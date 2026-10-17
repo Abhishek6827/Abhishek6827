@@ -27,19 +27,21 @@
   <!-- Content -->
   <g transform="translate(20, 18)">
     <!-- Top Row: Name and Live Badge -->
-    <text x="0" y="14" fill="#ffffff" font-size="15" font-weight="700">Kanban WorkBoard</text>
+    <text x="0" y="16" fill="#ffffff" font-size="15" font-weight="700">Kanban WorkBoard</text>
 
-    <!-- Badge on Right -->
-    <g class="tile-nudge" transform="translate(315, 0)">
-      <rect width="84" height="22" rx="5" fill="#0e172a" stroke="#38bdf8" stroke-width="0.9"/>
-      <text x="42" y="15" fill="#38bdf8" font-family="'Fira Code', 'JetBrains Mono', 'SFMono-Regular', Consolas, monospace" font-size="9.5" font-weight="700" text-anchor="middle">LIVE APP ↗</text>
+    <!-- Badge on Right (Outer G sets static x=315, Inner G nudges) -->
+    <g transform="translate(315, 0)">
+      <g class="tile-nudge">
+        <rect width="84" height="22" rx="5" fill="#0e172a" stroke="#38bdf8" stroke-width="0.9"/>
+        <text x="42" y="15" fill="#38bdf8" font-family="'Fira Code', 'JetBrains Mono', 'SFMono-Regular', Consolas, monospace" font-size="9.5" font-weight="700" text-anchor="middle">LIVE APP ↗</text>
+      </g>
     </g>
 
     <!-- Description -->
-    <text x="0" y="38" fill="#94a3b8" font-size="11.5">Project board with drag-and-drop &amp; Django backend</text>
+    <text x="0" y="40" fill="#94a3b8" font-size="11.5">Project board with drag-and-drop &amp; Django backend</text>
 
     <!-- Tech Stack Pill Bar -->
-    <g transform="translate(0, 50)">
+    <g transform="translate(0, 52)">
       <rect width="400" height="20" rx="4" fill="#070b16"/>
       <circle cx="12" cy="10" r="3" fill="#38bdf8"/>
       <text x="22" y="14" fill="#38bdf8" font-family="'Fira Code', 'JetBrains Mono', 'SFMono-Regular', Consolas, monospace" font-size="10" font-weight="600">Django · React · Redux</text>
