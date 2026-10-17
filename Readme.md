@@ -6,12 +6,12 @@
 <br/><br/>
 
 <!-- ANIMATED SVG 02: ABOUT & CAPABILITIES CAROUSEL -->
-<img src="./assets/about-life.svg?v=1" alt="Abhishek Tiwari — Capabilities & Life Carousel" width="100%" />
+<img src="./assets/about-life.svg?v=2" alt="Abhishek Tiwari — Capabilities & Life Carousel" width="100%" />
 
 <br/><br/>
 
 <!-- ANIMATED SVG 03: TECH ARSENAL ORBITS -->
-<img src="./assets/stack.svg?v=2" alt="Abhishek Tiwari — Tech Arsenal Orbit" width="100%" />
+<img src="./assets/stack.svg?v=3" alt="Abhishek Tiwari — Tech Arsenal Orbit" width="100%" />
 
 <br/><br/>
 

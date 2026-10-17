@@ -1,7 +1,7 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 390" width="900" height="390" style="background:#070b16; border-radius:20px; font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Inter', Roboto, Helvetica, Arial, sans-serif;">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 395" width="900" height="395" style="background:#070b16; border-radius:20px; font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Inter', Roboto, Helvetica, Arial, sans-serif;">
   <defs>
     <linearGradient id="ab-border" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#247bff" stop-opacity="0.6"/>
+      <stop offset="0%" stop-color="#247bff" stop-opacity="0.7"/>
       <stop offset="50%" stop-color="#ff354f" stop-opacity="0.3"/>
       <stop offset="100%" stop-color="#247bff" stop-opacity="0.2"/>
     </linearGradient>
@@ -30,69 +30,72 @@
     @media (prefers-reduced-motion: reduce) {
       .ab-anim { animation: none !important; }
     }
-    .ab-slide-1 { animation: slideFade1 12s infinite; }
-    .ab-slide-2 { animation: slideFade2 12s infinite; }
-    .ab-slide-3 { animation: slideFade3 12s infinite; }
+
+    /* 12s total cycle with visibility toggle to eliminate ghosting completely */
+    .ab-slide-1 { animation: slideFade1 12s infinite ease-in-out; }
+    .ab-slide-2 { animation: slideFade2 12s infinite ease-in-out; }
+    .ab-slide-3 { animation: slideFade3 12s infinite ease-in-out; }
 
     @keyframes slideFade1 {
-      0%, 30% { opacity: 1; transform: translateY(0); }
-      33%, 97% { opacity: 0; transform: translateY(8px); }
-      100% { opacity: 1; transform: translateY(0); }
+      0%, 28% { opacity: 1; visibility: visible; transform: translateY(0); }
+      31%, 97% { opacity: 0; visibility: hidden; transform: translateY(6px); }
+      100% { opacity: 1; visibility: visible; transform: translateY(0); }
     }
     @keyframes slideFade2 {
-      0%, 30% { opacity: 0; transform: translateY(8px); }
-      33%, 63% { opacity: 1; transform: translateY(0); }
-      66%, 100% { opacity: 0; transform: translateY(8px); }
+      0%, 30% { opacity: 0; visibility: hidden; transform: translateY(6px); }
+      33%, 61% { opacity: 1; visibility: visible; transform: translateY(0); }
+      64%, 100% { opacity: 0; visibility: hidden; transform: translateY(6px); }
     }
     @keyframes slideFade3 {
-      0%, 63% { opacity: 0; transform: translateY(8px); }
-      66%, 97% { opacity: 1; transform: translateY(0); }
-      100% { opacity: 0; transform: translateY(8px); }
+      0%, 63% { opacity: 0; visibility: hidden; transform: translateY(6px); }
+      66%, 94% { opacity: 1; visibility: visible; transform: translateY(0); }
+      97%, 100% { opacity: 0; visibility: hidden; transform: translateY(6px); }
     }
 
+    /* Segment progress bar animations */
     .ab-prog-1 { animation: progFill1 12s infinite linear; }
     .ab-prog-2 { animation: progFill2 12s infinite linear; }
     .ab-prog-3 { animation: progFill3 12s infinite linear; }
 
     @keyframes progFill1 {
       0% { width: 0px; }
-      30%, 99% { width: 112px; }
+      28%, 99% { width: 106px; }
       100% { width: 0px; }
     }
     @keyframes progFill2 {
       0%, 33% { width: 0px; }
-      63%, 99% { width: 112px; }
+      61%, 99% { width: 106px; }
       100% { width: 0px; }
     }
     @keyframes progFill3 {
       0%, 66% { width: 0px; }
-      97%, 99% { width: 112px; }
+      94%, 99% { width: 106px; }
       100% { width: 0px; }
     }
   </style>
 
   <!-- Background Base -->
-  <rect width="900" height="390" rx="20" fill="#070b16"/>
-  <rect width="900" height="390" fill="url(#ab-glow)"/>
-  <rect width="900" height="390" fill="url(#ab-dots)"/>
-  <rect x="0.75" y="0.75" width="898.5" height="388.5" rx="19.25" fill="none" stroke="url(#ab-border)" stroke-width="1.5"/>
+  <rect width="900" height="395" rx="20" fill="#070b16"/>
+  <rect width="900" height="395" fill="url(#ab-glow)"/>
+  <rect width="900" height="395" fill="url(#ab-dots)"/>
+  <rect x="0.75" y="0.75" width="898.5" height="393.5" rx="19.25" fill="none" stroke="url(#ab-border)" stroke-width="1.5"/>
 
   <!-- Top Header Title -->
-  <g transform="translate(50, 42)">
-    <rect width="180" height="24" rx="6" fill="#0e172a" stroke="#247bff" stroke-width="1" stroke-opacity="0.5"/>
-    <text x="90" y="16" fill="#38bdf8" font-family="'Fira Code', 'JetBrains Mono', 'SFMono-Regular', Consolas, monospace" font-size="11" font-weight="700" text-anchor="middle" letter-spacing="1.5">
+  <g transform="translate(50, 36)">
+    <rect width="195" height="24" rx="6" fill="#0e172a" stroke="#247bff" stroke-width="1" stroke-opacity="0.5"/>
+    <text x="97" y="16" fill="#38bdf8" font-family="'Fira Code', 'JetBrains Mono', 'SFMono-Regular', Consolas, monospace" font-size="11" font-weight="700" text-anchor="middle" letter-spacing="1.5">
       01 // CAPABILITIES &amp; LIFE
     </text>
-    <text x="200" y="17" fill="#64748b" font-family="'Fira Code', 'JetBrains Mono', 'SFMono-Regular', Consolas, monospace" font-size="11">ENGINEERING CORE + LIFE PHILOSOPHY</text>
+    <text x="215" y="17" fill="#64748b" font-family="'Fira Code', 'JetBrains Mono', 'SFMono-Regular', Consolas, monospace" font-size="11">ENGINEERING CORE + LIFE PHILOSOPHY</text>
   </g>
 
-  <!-- LEFT COLUMN: Engineering Capabilities (width: 380) -->
-  <g transform="translate(50, 80)">
-    <rect width="380" height="275" rx="16" fill="#0b1224" stroke="#1e293b" stroke-width="1"/>
+  <!-- LEFT COLUMN: Engineering Capabilities (width: 380, height: 295) -->
+  <g transform="translate(50, 75)">
+    <rect width="380" height="295" rx="16" fill="#0b1224" stroke="#1e293b" stroke-width="1"/>
     
     <!-- Title -->
-    <text x="24" y="34" fill="#f8fafc" font-size="15" font-weight="700">Production Capabilities</text>
-    <text x="24" y="52" fill="#64748b" font-family="'Fira Code', 'JetBrains Mono', 'SFMono-Regular', Consolas, monospace" font-size="10.5">VERIFIED DOMAINS &amp; ARCHITECTURAL STRENGTH</text>
+    <text x="24" y="32" fill="#f8fafc" font-size="15" font-weight="700">Production Capabilities</text>
+    <text x="24" y="48" fill="#64748b" font-family="'Fira Code', 'JetBrains Mono', 'SFMono-Regular', Consolas, monospace" font-size="10">VERIFIED DOMAINS &amp; ARCHITECTURAL STRENGTH</text>
 
     <!-- Cap 1: Full-Stack & Next.js -->
     <g transform="translate(24, 75)">
@@ -131,70 +134,70 @@
     </g>
   </g>
 
-  <!-- RIGHT COLUMN: 3-Slide Interests Carousel (width: 410) -->
-  <g transform="translate(450, 80)">
-    <rect width="400" height="275" rx="16" fill="#0b1224" stroke="#1e293b" stroke-width="1"/>
+  <!-- RIGHT COLUMN: 3-Slide Interests Carousel (width: 400, height: 295) -->
+  <g transform="translate(450, 75)">
+    <rect width="400" height="295" rx="16" fill="#0b1224" stroke="#1e293b" stroke-width="1"/>
 
-    <!-- 3 Segment Progress Bars -->
-    <g transform="translate(24, 24)">
+    <!-- 3 Segment Progress Bars (Positioned cleanly at y=20) -->
+    <g transform="translate(24, 20)">
       <g transform="translate(0, 0)">
-        <rect width="112" height="4" rx="2" fill="#1e293b"/>
+        <rect width="106" height="4" rx="2" fill="#1e293b"/>
         <rect width="0" height="4" rx="2" fill="#247bff" class="ab-prog-1"/>
       </g>
-      <g transform="translate(120, 0)">
-        <rect width="112" height="4" rx="2" fill="#1e293b"/>
+      <g transform="translate(122, 0)">
+        <rect width="106" height="4" rx="2" fill="#1e293b"/>
         <rect width="0" height="4" rx="2" fill="#f59e0b" class="ab-prog-2"/>
       </g>
-      <g transform="translate(240, 0)">
-        <rect width="112" height="4" rx="2" fill="#1e293b"/>
+      <g transform="translate(244, 0)">
+        <rect width="106" height="4" rx="2" fill="#1e293b"/>
         <rect width="0" height="4" rx="2" fill="#ff354f" class="ab-prog-3"/>
       </g>
     </g>
 
     <!-- Slide 1: SaaS Factory (0s-4s) -->
-    <g transform="translate(24, 52)" class="ab-slide-1">
-      <rect width="150" height="22" rx="5" fill="#0e172a" stroke="#247bff" stroke-width="0.8"/>
-      <text x="12" y="15" fill="#60a5fa" font-family="'Fira Code', 'JetBrains Mono', 'SFMono-Regular', Consolas, monospace" font-size="10" font-weight="700">INTEREST 01 // SAAS</text>
+    <g transform="translate(24, 46)" class="ab-slide-1">
+      <rect width="180" height="24" rx="6" fill="#0e172a" stroke="#247bff" stroke-width="0.9"/>
+      <text x="12" y="16" fill="#60a5fa" font-family="'Fira Code', 'JetBrains Mono', 'SFMono-Regular', Consolas, monospace" font-size="10" font-weight="700" letter-spacing="1">INTEREST 01 // SAAS</text>
       
-      <text x="0" y="48" fill="#ffffff" font-size="17" font-weight="700">Mass-Producing Production SaaS</text>
-      <text x="0" y="70" fill="#38bdf8" font-size="12.5" font-style="italic">"I mass produce web apps like a factory 🏭"</text>
+      <text x="0" y="52" fill="#ffffff" font-size="16.5" font-weight="700">Mass-Producing Production SaaS</text>
+      <text x="0" y="74" fill="#38bdf8" font-size="12.5" font-style="italic">"I mass produce web apps like a factory 🏭"</text>
 
-      <text x="0" y="102" fill="#cbd5e1" font-size="12.5">• Zero-to-one product builder with 20+ shipped apps</text>
-      <text x="0" y="124" fill="#cbd5e1" font-size="12.5">• High-scale architectures on AWS, Vercel &amp; Render</text>
-      <text x="0" y="146" fill="#cbd5e1" font-size="12.5">• Multi-tier recurring billing &amp; secure payment webhooks</text>
-      <text x="0" y="168" fill="#cbd5e1" font-size="12.5">• Battle-tested engineering shipped with relentless speed</text>
+      <text x="0" y="104" fill="#cbd5e1" font-size="12">• Zero-to-one product builder with 20+ shipped apps</text>
+      <text x="0" y="126" fill="#cbd5e1" font-size="12">• High-scale architectures on AWS, Vercel &amp; Render</text>
+      <text x="0" y="148" fill="#cbd5e1" font-size="12">• Multi-tier recurring billing &amp; secure payment webhooks</text>
+      <text x="0" y="170" fill="#cbd5e1" font-size="12">• Battle-tested engineering shipped with relentless speed</text>
     </g>
 
     <!-- Slide 2: Java & Enterprise Cloud (4s-8s) -->
-    <g transform="translate(24, 52)" class="ab-slide-2">
-      <rect width="180" height="22" rx="5" fill="#0e172a" stroke="#f59e0b" stroke-width="0.8"/>
-      <text x="12" y="15" fill="#fbbf24" font-family="'Fira Code', 'JetBrains Mono', 'SFMono-Regular', Consolas, monospace" font-size="10" font-weight="700">INTEREST 02 // JAVA &amp; AWS</text>
+    <g transform="translate(24, 46)" class="ab-slide-2">
+      <rect width="210" height="24" rx="6" fill="#0e172a" stroke="#f59e0b" stroke-width="0.9"/>
+      <text x="12" y="16" fill="#fbbf24" font-family="'Fira Code', 'JetBrains Mono', 'SFMono-Regular', Consolas, monospace" font-size="10" font-weight="700" letter-spacing="1">INTEREST 02 // JAVA &amp; AWS</text>
       
-      <text x="0" y="48" fill="#ffffff" font-size="17" font-weight="700">Enterprise Java &amp; AWS Cloud</text>
-      <text x="0" y="70" fill="#fbbf24" font-size="12.5" font-style="italic">"Scalable cloud microservices with Java Spring Boot ☁️"</text>
+      <text x="0" y="52" fill="#ffffff" font-size="16.5" font-weight="700">Enterprise Java &amp; AWS Cloud</text>
+      <text x="0" y="74" fill="#fbbf24" font-size="12.5" font-style="italic">"Scalable cloud microservices with Java Spring Boot ☁️"</text>
 
-      <text x="0" y="102" fill="#cbd5e1" font-size="12.5">• Built AI Resume Tailor on AWS Elastic Beanstalk</text>
-      <text x="0" y="124" fill="#cbd5e1" font-size="12.5">• High-throughput Spring WebClient &amp; document parsing</text>
-      <text x="0" y="146" fill="#cbd5e1" font-size="12.5">• Dynamic fallback routing across Groq, NVIDIA &amp; Cerebras</text>
-      <text x="0" y="168" fill="#cbd5e1" font-size="12.5">• Automated LaTeX to PDF compilation pipelines</text>
+      <text x="0" y="104" fill="#cbd5e1" font-size="12">• Built AI Resume Tailor on AWS Elastic Beanstalk</text>
+      <text x="0" y="126" fill="#cbd5e1" font-size="12">• High-throughput Spring WebClient &amp; document parsing</text>
+      <text x="0" y="148" fill="#cbd5e1" font-size="12">• Dynamic fallback routing across Groq, NVIDIA &amp; Cerebras</text>
+      <text x="0" y="170" fill="#cbd5e1" font-size="12">• Automated LaTeX to ATS PDF compilation pipelines</text>
     </g>
 
     <!-- Slide 3: AI Copilots & Cross-Platform (8s-12s) -->
-    <g transform="translate(24, 52)" class="ab-slide-3">
-      <rect width="180" height="22" rx="5" fill="#0e172a" stroke="#ff354f" stroke-width="0.8"/>
-      <text x="12" y="15" fill="#ff758f" font-family="'Fira Code', 'JetBrains Mono', 'SFMono-Regular', Consolas, monospace" font-size="10" font-weight="700">INTEREST 03 // COPILOTS</text>
+    <g transform="translate(24, 46)" class="ab-slide-3">
+      <rect width="195" height="24" rx="6" fill="#0e172a" stroke="#ff354f" stroke-width="0.9"/>
+      <text x="12" y="16" fill="#ff758f" font-family="'Fira Code', 'JetBrains Mono', 'SFMono-Regular', Consolas, monospace" font-size="10" font-weight="700" letter-spacing="1">INTEREST 03 // COPILOTS</text>
       
-      <text x="0" y="48" fill="#ffffff" font-size="17" font-weight="700">AI Copilots &amp; Cross-Platform</text>
-      <text x="0" y="70" fill="#ff758f" font-size="12.5" font-style="italic">"Real-time AI that feels like a native superpower ⚡"</text>
+      <text x="0" y="52" fill="#ffffff" font-size="16.5" font-weight="700">AI Copilots &amp; Cross-Platform</text>
+      <text x="0" y="74" fill="#ff758f" font-size="12.5" font-style="italic">"Real-time AI that feels like a native superpower ⚡"</text>
 
-      <text x="0" y="102" fill="#cbd5e1" font-size="12.5">• Founder of CHINTU AI — real-time career intelligence</text>
-      <text x="0" y="124" fill="#cbd5e1" font-size="12.5">• Native Electron desktop apps (Mac DMG &amp; Windows EXE)</text>
-      <text x="0" y="146" fill="#cbd5e1" font-size="12.5">• Real-time voice inference &amp; computer vision OCR</text>
-      <text x="0" y="168" fill="#cbd5e1" font-size="12.5">• WebRTC real-time audio/video on Social Connect</text>
+      <text x="0" y="104" fill="#cbd5e1" font-size="12">• Founder of CHINTU AI — real-time career intelligence</text>
+      <text x="0" y="126" fill="#cbd5e1" font-size="12">• Native Electron desktop apps (Mac DMG &amp; Windows EXE)</text>
+      <text x="0" y="148" fill="#cbd5e1" font-size="12">• Real-time voice inference &amp; computer vision OCR</text>
+      <text x="0" y="170" fill="#cbd5e1" font-size="12">• WebRTC real-time audio/video on Social Connect</text>
     </g>
 
     <!-- Bottom Carousel Indicator Status -->
-    <g transform="translate(24, 240)">
+    <g transform="translate(24, 260)">
       <text x="0" y="14" fill="#475569" font-family="'Fira Code', 'JetBrains Mono', 'SFMono-Regular', Consolas, monospace" font-size="9.5">4s INTERVAL CAROUSEL // AUTO-CYCLING</text>
     </g>
   </g>
