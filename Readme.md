@@ -1,29 +1,5 @@
 <div align="center">
 
-<!-- Animated Typing Header -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=800&color=A855F7&center=true&vCenter=true&repeat=true&random=false&width=900&height=70&lines=Hey+%F0%9F%91%8B+I'm+Abhishek+Tiwari" alt="Typing SVG" /></a>
-
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=800&color=6366F1&center=true&vCenter=true&repeat=true&random=false&width=800&height=50&lines=Full-Stack+Developer+%7C+Next.js+%26+TypeScript+%7C+SaaS+Builder;Java+%2B+AWS+Cloud+Architect+(Spring+Boot);Payment+Integration+Expert+(Stripe+%2B+Zoho+%2B+Razorpay);20%2B+Production+Apps+Shipped+%26+Deployed;Building+Scalable+Solutions+That+Matter" alt="Typing SVG" /></a>
-
-<br/>
-
-<!-- Top Badges -->
-<a href="https://portfolio.getchintu.com"><img src="https://img.shields.io/badge/Portfolio-Visit_Now-6366f1?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>&nbsp;
-<a href="https://www.linkedin.com/in/abhishek-tiwariiii"><img src="https://img.shields.io/badge/🔗_LinkedIn-Connect-0A66C2?style=for-the-badge&logoColor=white" /></a>&nbsp;
-<a href="mailto:abhishektiwari@getchintu.com"><img src="https://img.shields.io/badge/Gmail-Hire_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;
-<a href="https://getchintu.com"><img src="https://img.shields.io/badge/CHINTU_AI-LIVE-8B5CF6?style=for-the-badge&logo=rocket&logoColor=white" /></a>&nbsp;
-<img src="https://komarev.com/ghpvc/?username=Abhishek6827&style=for-the-badge&color=a855f7&label=👁️+PROFILE+VIEWS" alt="Profile Views" />
-
-</div>
-
----
-
-<!-- ========================================================================= -->
-<!-- 🌟 THE ANIMATED PROFILE SUITE (5 DYNAMIC SVG CARDS)                       -->
-<!-- ========================================================================= -->
-
-<div align="center">
-
 <!-- ANIMATED SVG 01: HERO -->
 <img src="./assets/hero.svg?v=1" alt="Abhishek Tiwari — Hero Profile" width="100%" />
 
@@ -49,12 +25,13 @@
 
 <br/>
 
-<!-- REAL CLICKABLE SOCIAL BUTTONS (Required because GitHub disables links inside SVGs) -->
+<!-- REAL CLICKABLE SOCIAL BUTTONS + PROFILE VIEWS COUNTER -->
 <a href="https://www.linkedin.com/in/abhishek-tiwariiii"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;
 <a href="https://portfolio.getchintu.com"><img src="https://img.shields.io/badge/Portfolio-Visit_Live-6366f1?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>&nbsp;
 <a href="https://getchintu.com"><img src="https://img.shields.io/badge/CHINTU_AI-Live_Platform-8B5CF6?style=for-the-badge&logo=rocket&logoColor=white" /></a>&nbsp;
 <a href="https://github.com/Abhishek6827"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" /></a>&nbsp;
-<a href="mailto:abhishektiwari@getchintu.com"><img src="https://img.shields.io/badge/Gmail-Hire_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="mailto:abhishektiwari@getchintu.com"><img src="https://img.shields.io/badge/Gmail-Hire_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;
+<img src="https://komarev.com/ghpvc/?username=Abhishek6827&style=for-the-badge&color=a855f7&label=👁️+PROFILE+VIEWS" alt="Profile Views" />
 
 </div>
 
