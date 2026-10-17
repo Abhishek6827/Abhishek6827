@@ -1,27 +1,27 @@
 <div align="center">
 
 <!-- ANIMATED SVG 01: HERO -->
-<img src="./assets/hero.svg?v=1" alt="Abhishek Tiwari — Hero Profile" width="100%" />
+<img src="./assets/hero.svg?v=2" alt="Abhishek Tiwari — Hero Profile" width="100%" />
 
 <br/><br/>
 
 <!-- ANIMATED SVG 02: ABOUT & CAPABILITIES CAROUSEL -->
-<img src="./assets/about-life.svg?v=2" alt="Abhishek Tiwari — Capabilities & Life Carousel" width="100%" />
+<img src="./assets/about-life.svg?v=3" alt="Abhishek Tiwari — Capabilities & Life Carousel" width="100%" />
 
 <br/><br/>
 
 <!-- ANIMATED SVG 03: TECH ARSENAL ORBITS -->
-<img src="./assets/stack.svg?v=3" alt="Abhishek Tiwari — Tech Arsenal Orbit" width="100%" />
+<img src="./assets/stack.svg?v=5" alt="Abhishek Tiwari — Tech Arsenal Orbit" width="100%" />
 
 <br/><br/>
 
 <!-- ANIMATED SVG 04: ID BADGE & VERIFIED METRICS -->
-<img src="./assets/id-dashboard.svg?v=1" alt="Abhishek Tiwari — ID Badge & Credentials Dashboard" width="100%" />
+<img src="./assets/id-dashboard.svg?v=2" alt="Abhishek Tiwari — ID Badge & Credentials Dashboard" width="100%" />
 
 <br/><br/>
 
 <!-- ANIMATED SVG 05: CONNECT & SOCIAL CTA -->
-<img src="./assets/connect.svg?v=1" alt="Connect with Abhishek Tiwari" width="100%" />
+<img src="./assets/connect.svg?v=2" alt="Connect with Abhishek Tiwari" width="100%" />
 
 <br/>
 
@@ -37,104 +37,19 @@
 
 ---
 
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> &nbsp;About Me
-
-```typescript
-const abhishek = {
-    location: "Lucknow, India 🇮🇳",
-    education: "Postgraduate in Computer Applications 🎓",
-    currentRole: "Founder & Full-Stack Developer @ CHINTU AI",
-    specialization: ["SaaS Products", "Java & AWS Cloud Architecture", "Payment Systems", "AI Integrations", "Desktop Apps"],
-    building: "CHINTU AI — AI Career Platform for Interviews, Assessments & Resume Tailoring | Real-Time AI Copilot",
-    funFact: "I mass produce web apps like a factory 🏭"
-};
-```
-
-<table>
-<tr>
-<td width="55%">
-
-🔥 **What I bring to the table:**
-
-- <img src="https://skillicons.dev/icons?i=nextjs" width="16" /> <img src="https://skillicons.dev/icons?i=react" width="16" /> <img src="https://skillicons.dev/icons?i=java" width="16" /> <img src="https://skillicons.dev/icons?i=spring" width="16" /> <img src="https://skillicons.dev/icons?i=aws" width="16" /> <img src="https://skillicons.dev/icons?i=electron" width="16" /> <img src="https://skillicons.dev/icons?i=express" width="16" /> <img src="https://skillicons.dev/icons?i=supabase" width="16" /> <img src="https://skillicons.dev/icons?i=mongodb" width="16" /> &nbsp;Full-stack &amp; Cloud mastery — **Next.js**, **React**, **Java (Spring Boot)**, **AWS Cloud**, **Electron**, **Express**, **Supabase**, **MongoDB**
-- 🤖 AI Integration — **Alibaba**, **OpenAI**, **Groq**, **AssemblyAI**, **NVIDIA**, **Cerebras** — multi-model orchestration
-- 💳 Payment gateway expert — **Stripe**, **Zoho Payments**, **Razorpay**, webhooks &amp; billing
-- 🏗️ SaaS architect — scalable, production-ready, battle-tested code
-- 🖥️ Cross-platform apps — Electron desktop (Windows EXE/MacOS DMG) + Android APK + Web
-- 🚀 **20+ deployed apps** and counting
-- 🌱 Currently learning: **Advanced TypeScript** &amp; **Cloud Distributed Architectures**
-
-</td>
-<td width="45%">
-
-<img src="https://github-readme-stats-7ihy.vercel.app/api/top-langs/?username=Abhishek6827&layout=donut-vertical&theme=radical&hide_border=true&bg_color=0d1117&title_color=a855f7&text_color=c9d1d9&langs_count=6" width="100%" />
-
-</td>
-</tr>
-</table>
-
----
-
-## 🛠️ Tech Arsenal
-
-<div align="center">
-
-### ⚔️ Frontend
-<img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,tailwind,redux,angular,html,css,framermotion&perline=10" />
-
-### 🧠 Backend, Cloud & Database
-<img src="https://skillicons.dev/icons?i=java,spring,aws,nodejs,express,django,python,supabase,mongodb,postgres,mysql&perline=11" />
-
-### 🤖 AI & Integration
-<img src="https://skillicons.dev/icons?i=openai&perline=1" />
-<a href="#"><img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white" /></a>
-<a href="#"><img src="https://img.shields.io/badge/⚡_Groq-F55036?style=for-the-badge&logoColor=white" /></a>
-<a href="#"><img src="https://img.shields.io/badge/🎙️_AssemblyAI-2244B5?style=for-the-badge&logoColor=white" /></a>
-<a href="#"><img src="https://img.shields.io/badge/OpenRouter-5A5A5A?style=for-the-badge&logo=openrouter&logoColor=white" /></a>
-<a href="#"><img src="https://img.shields.io/badge/Alibaba-FF6A00?style=for-the-badge&logo=alibabacloud&logoColor=white" /></a>
-<a href="#"><img src="https://img.shields.io/badge/NVIDIA_AI-76B900?style=for-the-badge&logo=nvidia&logoColor=white" /></a>
-<a href="#"><img src="https://img.shields.io/badge/Telegram_Bot-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" /></a>
-<a href="#"><img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" /></a>
-<a href="#"><img src="https://img.shields.io/badge/🔗_Webhooks-6366F1?style=for-the-badge&logoColor=white" /></a>
-<a href="#"><img src="https://img.shields.io/badge/Resend_API-000000?style=for-the-badge&logo=minutemailer&logoColor=white" /></a>
-<a href="#"><img src="https://img.shields.io/badge/Clerk-6C47FF?style=for-the-badge&logo=clerk&logoColor=white" /></a>
-<a href="#"><img src="https://img.shields.io/badge/LaTeX_TexLive-008080?style=for-the-badge&logo=latex&logoColor=white" /></a>
-<a href="#"><img src="https://img.shields.io/badge/Prompt_Engineering-10B981?style=for-the-badge&logo=openai&logoColor=white" /></a>
-
-### 💳 Payments
-<a href="#"><img src="https://img.shields.io/badge/Stripe-008CDD?style=for-the-badge&logo=stripe&logoColor=white" /></a>
-<a href="#"><img src="https://img.shields.io/badge/Zoho_Payments-C8202B?style=for-the-badge&logo=zoho&logoColor=white" /></a>
-<a href="#"><img src="https://img.shields.io/badge/Razorpay-0C2451?style=for-the-badge&logo=razorpay&logoColor=white" /></a>
-
-### 📱 Cross-Platform
-<a href="#"><img src="https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white" /></a>
-<a href="#"><img src="https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white" /></a>
-<a href="#"><img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" /></a>
-
-### 🔧 DevOps & Tools
-<img src="https://skillicons.dev/icons?i=git,github,githubactions,vercel,vscode,linux,docker&perline=7" />
-<a href="#"><img src="https://img.shields.io/badge/AWS_Beanstalk-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white" /></a>
-<a href="#"><img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black" /></a>
-<a href="#"><img src="https://img.shields.io/badge/n8n-FF6D5A?style=for-the-badge&logo=n8n&logoColor=white" /></a>
-<a href="#"><img src="https://img.shields.io/badge/Ngrok-1F1E37?style=for-the-badge&logo=ngrok&logoColor=white" /></a>
-
-</div>
-
----
-
 ## 💼 Battle Log (Experience)
 
 ### ⚡ Full-Stack Developer
 **CHINTU AI** · `📅 02/2026 – Present`
 
-<img src="https://skillicons.dev/icons?i=nextjs,electron,supabase" width="42" />&nbsp;&nbsp;Building **CHINTU AI** — AI Career Platform for Interviews, Assessments & Resume Tailoring | Real-Time AI Copilot. Electron desktop app (Windows/Mac DMG) + Android APK + Next.js web platform. Multi-model LLM orchestration (Alibaba, OpenAI, Groq). Razorpay billing with 3-tier subscriptions. AI-powered practice sessions, voice input, technical assessment tools, and 63+ language support. Auto-updater pipeline with GitHub Releases.
+<img src="https://skillicons.dev/icons?i=nextjs,electron,supabase" width="42" />&nbsp;&nbsp;Building **CHINTU AI** — AI Career Platform for Interviews, Assessments &amp; Resume Tailoring | Real-Time AI Copilot. Electron desktop app (Windows/Mac DMG) + Android APK + Next.js web platform. Multi-model LLM orchestration (Alibaba, OpenAI, Groq). Razorpay billing with 3-tier subscriptions. AI-powered practice sessions, voice input, technical assessment tools, and 63+ language support. Auto-updater pipeline with GitHub Releases.
 
 ---
 
 ### <img src="https://skillicons.dev/icons?i=nextjs" width="18" /> Full Stack Developer
-**Indian Capital & Investment (Coimbatore) Ltd.** · `📅 11/2025 – 02/2026`
+**Indian Capital &amp; Investment (Coimbatore) Ltd.** · `📅 11/2025 – 02/2026`
 
-<img src="https://skillicons.dev/icons?i=nextjs,firebase" width="28" />&nbsp;&nbsp;Stripe & Zoho payment gateways · Next.js + Firebase backend · Automated webhooks & Resend notifications · Notion API workflow automation
+<img src="https://skillicons.dev/icons?i=nextjs,firebase" width="28" />&nbsp;&nbsp;Stripe &amp; Zoho payment gateways · Next.js + Firebase backend · Automated webhooks &amp; Resend notifications · Notion API workflow automation
 
 ---
 
@@ -159,9 +74,9 @@ const abhishek = {
 
 ---
 
-## 🚀 Shipped & Deployed Flagship Projects
+## 🚀 Shipped &amp; Deployed Flagship Projects
 
-### ⚡ 01. CHINTU AI — AI Career Platform & Real-Time Copilot &nbsp; [**LIVE ↗**](https://getchintu.com)
+### ⚡ 01. CHINTU AI — AI Career Platform &amp; Real-Time Copilot &nbsp; [**LIVE ↗**](https://getchintu.com)
 
 <img src="https://skillicons.dev/icons?i=nextjs,ts,electron,supabase,tailwind,nodejs&perline=10" />
 
@@ -172,22 +87,22 @@ const abhishek = {
 > AI-powered career prep platform for **interviews**, **assessments**, and **resume tailoring**. Multi-model intelligence, voice input, technical assessment tools, and 63+ language support. Cross-platform — Desktop (Electron · Windows/Mac DMG), Android APK, and Web with Razorpay billing, auto-updater, and intelligent answer synthesis.
 
 <details>
-<summary><b>📋 Full Feature List & Architecture (click to expand)</b></summary>
+<summary><b>📋 Full Feature List &amp; Architecture (click to expand)</b></summary>
 
 **🤖 Multi-Model AI Engine**
 - **Standard Engine** — Balanced responses for general practice questions
 - **Pro Engine** — Detailed, contextual answers with memory
 - **Coding Engine** — Specialized for DSA, system design, and technical assessments
-- **Turbo Engine (Elite)** — Ultra-low-latency answers (<200ms) via Groq
+- **Turbo Engine (Elite)** — Ultra-low-latency answers (&lt;200ms) via Groq
 - **Scout + Turbo** — Deep analysis with verified fixes for technical problems
 
-**🎙️ Voice & Input**
+**🎙️ Voice &amp; Input**
 - Hold-Space voice input with instant AI synthesis
 - Vision OCR — analyze any question image and get structured answers
 - Minimizable assistant panel for focused practice sessions
 - Universal keyboard shortcuts across all platforms
 
-**💳 Billing & Plans**
+**💳 Billing &amp; Plans**
 - **Starter** — Free tier with 10 credits/month
 - **Professional** — 100 credits/month, all premium engines
 - **Elite** — 500 credits/month, Turbo Engine, screen recording, dedicated support
@@ -207,33 +122,33 @@ const abhishek = {
 
 ---
 
-### 📄 02. AI Resume Tailor & LaTeX Engine (AWS + Java Spring Boot) &nbsp; [**SOURCE REPO ↗**](https://github.com/Abhishek6827/Resume-Extension)
+### 📄 02. AI Resume Tailor &amp; LaTeX Engine (AWS + Java Spring Boot) &nbsp; [**SOURCE REPO ↗**](https://github.com/Abhishek6827/Resume-Extension)
 
 <img src="https://skillicons.dev/icons?i=java,spring,aws,nextjs,ts,tailwind&perline=10" />
 
 > Cloud-native, AI-driven resume tailoring platform that customizes resumes for specific job descriptions. Features high-throughput **Java Spring Boot backend deployed on AWS Elastic Beanstalk**, multi-provider LLM fallback routing, document parsing, and LaTeX PDF compilation.
 
 <details>
-<summary><b>📋 Full Feature List & Architecture (click to expand)</b></summary>
+<summary><b>📋 Full Feature List &amp; Architecture (click to expand)</b></summary>
 
-**☁️ AWS Cloud & Java Spring Boot Backend**
+**☁️ AWS Cloud &amp; Java Spring Boot Backend**
 - **Cloud Hosting:** Deployed on **AWS Elastic Beanstalk** (Single Instance Corretto 17 environment)
 - **Backend Framework:** **Java 17/21 with Spring Boot**, structured with clean separation of services, controllers, and config
 - **Spring WebClient:** High-throughput non-blocking asynchronous REST communication with LLM providers
-- **Dynamic Port & Environment Management:** Native integration with AWS environment variables (`SERVER_PORT=5000`)
+- **Dynamic Port &amp; Environment Management:** Native integration with AWS environment variables (`SERVER_PORT=5000`)
 
 **🧠 Multi-Provider AI Fallback Routing**
 - Highly resilient fallback matrix across **Groq**, **Cerebras**, **NVIDIA**, and **OpenRouter**
 - Bypasses rate limits and ensures sub-second response times for deep prompt engineering
 - Context-aware bullet point rewrites strictly matching job descriptions while preserving truthfulness
 
-**📄 Document Parsing & LaTeX PDF Compilation**
+**📄 Document Parsing &amp; LaTeX PDF Compilation**
 - **Apache PDFBox** for robust PDF text extraction and metadata processing
 - **Apache POI** for DOCX parsing and structural layout extraction
 - **TexLive API Integration:** Automatic compilation into beautiful, ATS-compliant LaTeX templates
 - Instant downloadable PDF output with pixel-perfect typography
 
-**🧩 Chrome Extension & Modern Frontend**
+**🧩 Chrome Extension &amp; Modern Frontend**
 - Chrome Extension side-panel UI built with **Next.js**, **React**, and **TypeScript**
 - Sleek glassmorphism aesthetic with responsive Tailwind CSS
 - Real-time status sync between extension panel and AWS Spring Boot API
@@ -249,31 +164,31 @@ const abhishek = {
 > Full-stack social media application with **real-time chat**, **WebRTC video/audio calls**, and a rich messaging system.
 
 <details>
-<summary><b>📋 Full Feature List & Architecture (click to expand)</b></summary>
+<summary><b>📋 Full Feature List &amp; Architecture (click to expand)</b></summary>
 
 **💬 Real-Time Chat (Socket.io)**
-- Text, image, audio, voice & file message types
+- Text, image, audio, voice &amp; file message types
 - Emoji reactions on messages (add/remove per user)
-- Message editing (10-min window) & deletion with real-time sync
-- Read receipts & read timestamps
+- Message editing (10-min window) &amp; deletion with real-time sync
+- Read receipts &amp; read timestamps
 - Typing indicators (start/stop)
 - Online/offline presence tracking with `lastSeen`
 - Unread message count per chat
 
-**📞 WebRTC Audio & Video Calls**
-- Peer-to-peer audio & video calls with ICE candidate exchange
+**📞 WebRTC Audio &amp; Video Calls**
+- Peer-to-peer audio &amp; video calls with ICE candidate exchange
 - Call initiation, accept, reject, and end signaling via Socket.io
-- Caller avatar & name display on incoming call UI
+- Caller avatar &amp; name display on incoming call UI
 
 **🔐 Authentication**
 - JWT-based auth with bcrypt password hashing
-- Google OAuth 2.0 & Facebook OAuth via Passport.js
+- Google OAuth 2.0 &amp; Facebook OAuth via Passport.js
 - Email verification with token expiration (Brevo/Sendinblue)
-- Remembered users & session persistence
+- Remembered users &amp; session persistence
 - Auth guards on client routes
 
 **👤 User Profiles**
-- Avatar & cover image uploads (Multer)
+- Avatar &amp; cover image uploads (Multer)
 - Bio, location, website, follower/following counts
 - User search by username
 - Profile pages with activity feed
@@ -298,7 +213,7 @@ const abhishek = {
 > Automated end-to-end YouTube content workflow: **Google Drive → AI Metadata → Scheduled YouTube Upload** with copyright protection.
 
 <details>
-<summary><b>📋 Full Feature List & Architecture (click to expand)</b></summary>
+<summary><b>📋 Full Feature List &amp; Architecture (click to expand)</b></summary>
 
 **🤖 AI-Powered Metadata Generation (3-tier system)**
 - **Tier 1 — Audio Transcription:** AssemblyAI extracts transcript → Gemini 2.0 Flash generates title/description/tags from spoken content
@@ -307,27 +222,27 @@ const abhishek = {
 - Enforces YouTube limits (title ≤100 chars, tags ≤500 chars total)
 
 **📁 Google Drive Integration**
-- Folder scan & single-file link support via Google Drive API
+- Folder scan &amp; single-file link support via Google Drive API
 - Auto-detect folders vs individual video files
 - Skip already-processed videos (deduplication)
-- Download video streams for upload & frame extraction
+- Download video streams for upload &amp; frame extraction
 
-**📤 YouTube Upload & Scheduling**
+**📤 YouTube Upload &amp; Scheduling**
 - Automated upload via YouTube Data API v3
 - Configurable schedule: upload hour + videos per day per job
 - Privacy control: public, unlisted, or private
 - Scheduled publishing with `publishAt` timestamp
-- Quota error detection & handling
+- Quota error detection &amp; handling
 
 **🛡️ Copyright Safety System**
 - Post-upload copyright claim detection (polling up to 2 min)
 - Auto-revert to private if restrictions found
-- Copyright logs with claim type, status & details
+- Copyright logs with claim type, status &amp; details
 - Region restriction detection
 
 **⚙️ Automation Jobs**
 - Multi-job support: multiple Drive folders → one YouTube channel
-- Per-job scheduling (independent upload hours & daily limits)
+- Per-job scheduling (independent upload hours &amp; daily limits)
 - Enable/disable individual jobs
 - Cron-based daily automation (`node-cron`)
 - Draft/preview workflow before committing to upload
@@ -335,7 +250,7 @@ const abhishek = {
 **🔐 Authentication**
 - NextAuth v5 (Auth.js) with Google OAuth
 - Prisma Adapter for session persistence
-- Multi-user support: isolated videos, folders, settings & jobs
+- Multi-user support: isolated videos, folders, settings &amp; jobs
 
 **🏗️ Architecture**
 - **Frontend:** Next.js 16 (App Router) + TypeScript + Tailwind CSS + Radix UI
@@ -407,22 +322,13 @@ const abhishek = {
 |:--:|---------------|--------|:----:|
 | <img src="https://img.shields.io/badge/Meta-0668E1?style=flat-square&logo=meta&logoColor=white" /> | **React Developer Certification** | Meta | `2025` |
 | <img src="https://img.shields.io/badge/FCC-0A0A23?style=flat-square&logo=freecodecamp&logoColor=white" /> | **Full Stack Web Development** | FreeCodeCamp | `2024` |
-| <img src="https://img.shields.io/badge/FCC-0A0A23?style=flat-square&logo=freecodecamp&logoColor=white" /> | **JS Algorithms & Data Structures** | FreeCodeCamp | `2023` |
+| <img src="https://img.shields.io/badge/FCC-0A0A23?style=flat-square&logo=freecodecamp&logoColor=white" /> | **JS Algorithms &amp; Data Structures** | FreeCodeCamp | `2023` |
 
 </div>
 
 ---
 
-## 🤝 Let's Build Something Epic
-
 <div align="center">
-
-<a href="https://abhishek6827.github.io/Portfolio/"><img src="https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=vercel&logoColor=white" /></a>&nbsp;
-<a href="https://www.linkedin.com/in/abhishek-tiwariiii"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;
-<a href="https://github.com/Abhishek6827"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>&nbsp;
-<a href="mailto:abhishektiwari6827@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-
-<br/><br/>
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" width="70%" />
 
