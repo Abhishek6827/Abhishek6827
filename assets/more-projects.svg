@@ -24,7 +24,7 @@
     <text x="225" y="16" fill="#94a3b8" font-family="'Fira Code', 'JetBrains Mono', 'SFMono-Regular', Consolas, monospace" font-size="11">ADDITIONAL PRODUCTION DEPLOYMENTS</text>
 
     <!-- Right Header CTA -->
-    <a xlink:href="https://abhishek6827.github.io/Portfolio/" target="_blank" style="cursor: pointer;">
+    <a xlink:href="https://portfolio.getchintu.com" target="_blank" style="cursor: pointer;">
       <g transform="translate(630, 0)">
         <rect width="170" height="24" rx="6" fill="#0b1224" stroke="#6366f1" stroke-width="1.1"/>
         <text x="85" y="16" fill="#818cf8" font-family="'Fira Code', 'JetBrains Mono', 'SFMono-Regular', Consolas, monospace" font-size="10.5" font-weight="700" text-anchor="middle">EXPLORE ALL APPS ↗</text>
@@ -54,7 +54,7 @@
     </a>
 
     <!-- Tile: Myntra Clone -->
-    <a xlink:href="https://Abhishek6827.github.io/Myntra/" target="_blank" style="cursor: pointer;">
+    <a xlink:href="https://abhishek6827.github.io/E-commerce/" target="_blank" style="cursor: pointer;">
       <g transform="translate(272, 0)">
         <rect width="256" height="105" rx="12" fill="#0b1224" stroke="#1e293b" stroke-width="1"/>
         <text x="16" y="24" fill="#ffffff" font-size="14.5" font-weight="700">Myntra Clone</text>
@@ -72,7 +72,7 @@
     </a>
 
     <!-- Tile: Kanban WorkBoard -->
-    <a xlink:href="https://Abhishek6827.github.io/Kanban_WorkBoard/" target="_blank" style="cursor: pointer;">
+    <a xlink:href="https://abhishek6827.github.io/Kanban_WorkBoard/" target="_blank" style="cursor: pointer;">
       <g transform="translate(544, 0)">
         <rect width="256" height="105" rx="12" fill="#0b1224" stroke="#1e293b" stroke-width="1"/>
         <text x="16" y="24" fill="#ffffff" font-size="14.5" font-weight="700">Kanban WorkBoard</text>
@@ -108,7 +108,7 @@
     </a>
 
     <!-- Tile: Skill Up -->
-    <a xlink:href="https://Abhishek6827.github.io/Skill_Up/" target="_blank" style="cursor: pointer;">
+    <a xlink:href="https://abhishek6827.github.io/Skill_Up/" target="_blank" style="cursor: pointer;">
       <g transform="translate(272, 119)">
         <rect width="256" height="105" rx="12" fill="#0b1224" stroke="#1e293b" stroke-width="1"/>
         <text x="16" y="24" fill="#ffffff" font-size="14.5" font-weight="700">Skill Up</text>
@@ -126,7 +126,7 @@
     </a>
 
     <!-- Tile: Elante Mall -->
-    <a xlink:href="https://Abhishek6827.github.io/Elante_Mall/" target="_blank" style="cursor: pointer;">
+    <a xlink:href="https://abhishek6827.github.io/Elante_Mall/" target="_blank" style="cursor: pointer;">
       <g transform="translate(544, 119)">
         <rect width="256" height="105" rx="12" fill="#0b1224" stroke="#1e293b" stroke-width="1"/>
         <text x="16" y="24" fill="#ffffff" font-size="14.5" font-weight="700">Elante Mall</text>

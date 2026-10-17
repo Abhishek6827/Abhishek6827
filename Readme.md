@@ -54,8 +54,8 @@
 <br/><br/>
 
 <!-- Project 02: AI Resume Tailor & LaTeX Engine (AWS + Java Spring Boot) -->
-<a href="https://github.com/Abhishek6827/Resume-Extension">
-  <img src="./assets/project-resume.svg?v=2" alt="AI Resume Tailor & LaTeX Engine — Flagship Project 02" width="100%" />
+<a href="https://resume.getchintu.com">
+  <img src="./assets/project-resume.svg?v=3" alt="AI Resume Tailor & LaTeX Engine — Flagship Project 02" width="100%" />
 </a>
 
 <br/><br/>
@@ -68,15 +68,15 @@
 <br/><br/>
 
 <!-- Project 04: YouTube Automation -->
-<a href="https://yt-automation-beta.vercel.app/">
-  <img src="./assets/project-youtube.svg?v=2" alt="YouTube Automation — Flagship Project 04" width="100%" />
+<a href="https://automation.getchintu.com">
+  <img src="./assets/project-youtube.svg?v=3" alt="YouTube Automation — Flagship Project 04" width="100%" />
 </a>
 
 <br/><br/>
 
 <!-- SECTION 05: MORE PROJECTS (ECOSYSTEM REPOSITORY) -->
-<a href="https://abhishek6827.github.io/Portfolio/">
-  <img src="./assets/more-projects.svg?v=2" alt="Abhishek Tiwari — Ecosystem Production Apps" width="100%" />
+<a href="https://portfolio.getchintu.com">
+  <img src="./assets/more-projects.svg?v=3" alt="Abhishek Tiwari — Ecosystem Production Apps" width="100%" />
 </a>
 
 <br/><br/>
