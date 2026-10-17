@@ -47,7 +47,9 @@
 
 <!-- SECTION 03: BATTLE LOG (EXPERIENCE TIMELINE) -->
 <a id="experience"></a>
-<img src="./assets/battle-log.svg?v=1" alt="Abhishek Tiwari — Battle Log Experience Timeline" width="100%" />
+<a href="#experience">
+  <img src="./assets/battle-log.svg?v=2" alt="Abhishek Tiwari — Battle Log Experience Timeline" width="100%" />
+</a>
 
 <br/><br/>
 
@@ -56,42 +58,44 @@
 
 <!-- Project 01: CHINTU AI -->
 <a href="https://getchintu.com">
-  <img src="./assets/project-chintu.svg?v=1" alt="CHINTU AI — Flagship Project 01" width="100%" />
+  <img src="./assets/project-chintu.svg?v=2" alt="CHINTU AI — Flagship Project 01" width="100%" />
 </a>
 
 <br/><br/>
 
 <!-- Project 02: AI Resume Tailor & LaTeX Engine (AWS + Java Spring Boot) -->
 <a href="https://github.com/Abhishek6827/Resume-Extension">
-  <img src="./assets/project-resume.svg?v=1" alt="AI Resume Tailor & LaTeX Engine — Flagship Project 02" width="100%" />
+  <img src="./assets/project-resume.svg?v=2" alt="AI Resume Tailor & LaTeX Engine — Flagship Project 02" width="100%" />
 </a>
 
 <br/><br/>
 
 <!-- Project 03: Social Connect -->
 <a href="https://socialconnect.getchintu.com/login">
-  <img src="./assets/project-social.svg?v=1" alt="Social Connect — Flagship Project 03" width="100%" />
+  <img src="./assets/project-social.svg?v=2" alt="Social Connect — Flagship Project 03" width="100%" />
 </a>
 
 <br/><br/>
 
 <!-- Project 04: YouTube Automation -->
 <a href="https://yt-automation-beta.vercel.app/">
-  <img src="./assets/project-youtube.svg?v=1" alt="YouTube Automation — Flagship Project 04" width="100%" />
+  <img src="./assets/project-youtube.svg?v=2" alt="YouTube Automation — Flagship Project 04" width="100%" />
 </a>
 
 <br/><br/>
 
 <!-- SECTION 05: MORE PROJECTS (ECOSYSTEM REPOSITORY) -->
 <a href="https://abhishek6827.github.io/Portfolio/">
-  <img src="./assets/more-projects.svg?v=1" alt="Abhishek Tiwari — Ecosystem Production Apps" width="100%" />
+  <img src="./assets/more-projects.svg?v=2" alt="Abhishek Tiwari — Ecosystem Production Apps" width="100%" />
 </a>
 
 <br/><br/>
 
 <!-- SECTION 06: STATS THAT SPEAK (HEADER + ANALYTICS WIDGETS) -->
 <a id="stats"></a>
-<img src="./assets/stats-header.svg?v=1" alt="Stats That Speak — Metrics Header" width="100%" />
+<a href="#stats">
+  <img src="./assets/stats-header.svg?v=2" alt="Stats That Speak — Metrics Header" width="100%" />
+</a>
 
 <br/><br/>
 
@@ -119,7 +123,9 @@
 
 <!-- SECTION 07: ACCREDITATIONS & CERTIFICATIONS -->
 <a id="certifications"></a>
-<img src="./assets/certifications.svg?v=1" alt="Abhishek Tiwari — Verified Industry Certifications" width="100%" />
+<a href="#certifications">
+  <img src="./assets/certifications.svg?v=2" alt="Abhishek Tiwari — Verified Industry Certifications" width="100%" />
+</a>
 
 <br/><br/>
 

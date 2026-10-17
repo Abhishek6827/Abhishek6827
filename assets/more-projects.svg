@@ -47,7 +47,7 @@
           <text x="30" y="13" fill="#f97316" font-family="'Fira Code', 'JetBrains Mono', 'SFMono-Regular', Consolas, monospace" font-size="9" font-weight="700" text-anchor="middle">LIVE ↗</text>
         </g>
 
-        <text x="16" y="48" fill="#94a3b8" font-size="11" line-height="1.4">Disposable email service with real-time webhooks</text>
+        <text x="16" y="48" fill="#94a3b8" font-size="11">Disposable email service with real-time webhooks</text>
         <rect x="16" y="72" width="224" height="20" rx="4" fill="#070b16"/>
         <text x="24" y="86" fill="#f97316" font-family="'Fira Code', 'JetBrains Mono', 'SFMono-Regular', Consolas, monospace" font-size="10" font-weight="600">Next.js · Firebase · Tailwind</text>
       </g>
@@ -65,7 +65,7 @@
           <text x="30" y="13" fill="#ec4899" font-family="'Fira Code', 'JetBrains Mono', 'SFMono-Regular', Consolas, monospace" font-size="9" font-weight="700" text-anchor="middle">LIVE ↗</text>
         </g>
 
-        <text x="16" y="48" fill="#94a3b8" font-size="11" line-height="1.4">Fashion e-commerce platform & cart state flow</text>
+        <text x="16" y="48" fill="#94a3b8" font-size="11">Fashion e-commerce platform &amp; cart state flow</text>
         <rect x="16" y="72" width="224" height="20" rx="4" fill="#070b16"/>
         <text x="24" y="86" fill="#ec4899" font-family="'Fira Code', 'JetBrains Mono', 'SFMono-Regular', Consolas, monospace" font-size="10" font-weight="600">React · Redux · CSS3</text>
       </g>
@@ -83,7 +83,7 @@
           <text x="30" y="13" fill="#38bdf8" font-family="'Fira Code', 'JetBrains Mono', 'SFMono-Regular', Consolas, monospace" font-size="9" font-weight="700" text-anchor="middle">LIVE ↗</text>
         </g>
 
-        <text x="16" y="48" fill="#94a3b8" font-size="11" line-height="1.4">Project board with drag-and-drop & Django backend</text>
+        <text x="16" y="48" fill="#94a3b8" font-size="11">Project board with drag-and-drop &amp; Django backend</text>
         <rect x="16" y="72" width="224" height="20" rx="4" fill="#070b16"/>
         <text x="24" y="86" fill="#38bdf8" font-family="'Fira Code', 'JetBrains Mono', 'SFMono-Regular', Consolas, monospace" font-size="10" font-weight="600">Django · React · Redux</text>
       </g>
@@ -101,7 +101,7 @@
           <text x="30" y="13" fill="#eab308" font-family="'Fira Code', 'JetBrains Mono', 'SFMono-Regular', Consolas, monospace" font-size="9" font-weight="700" text-anchor="middle">LIVE ↗</text>
         </g>
 
-        <text x="16" y="48" fill="#94a3b8" font-size="11" line-height="1.4">Seasonal market trend calendar & visualizer</text>
+        <text x="16" y="48" fill="#94a3b8" font-size="11">Seasonal market trend calendar &amp; visualizer</text>
         <rect x="16" y="72" width="224" height="20" rx="4" fill="#070b16"/>
         <text x="24" y="86" fill="#eab308" font-family="'Fira Code', 'JetBrains Mono', 'SFMono-Regular', Consolas, monospace" font-size="10" font-weight="600">React · Tailwind CSS</text>
       </g>
@@ -119,7 +119,7 @@
           <text x="30" y="13" fill="#10b981" font-family="'Fira Code', 'JetBrains Mono', 'SFMono-Regular', Consolas, monospace" font-size="9" font-weight="700" text-anchor="middle">LIVE ↗</text>
         </g>
 
-        <text x="16" y="48" fill="#94a3b8" font-size="11" line-height="1.4">Online interactive course & learning platform</text>
+        <text x="16" y="48" fill="#94a3b8" font-size="11">Online interactive course &amp; learning platform</text>
         <rect x="16" y="72" width="224" height="20" rx="4" fill="#070b16"/>
         <text x="24" y="86" fill="#10b981" font-family="'Fira Code', 'JetBrains Mono', 'SFMono-Regular', Consolas, monospace" font-size="10" font-weight="600">React · Firebase Auth</text>
       </g>
@@ -137,7 +137,7 @@
           <text x="30" y="13" fill="#a855f7" font-family="'Fira Code', 'JetBrains Mono', 'SFMono-Regular', Consolas, monospace" font-size="9" font-weight="700" text-anchor="middle">LIVE ↗</text>
         </g>
 
-        <text x="16" y="48" fill="#94a3b8" font-size="11" line-height="1.4">Commercial shopping mall directory & showcase</text>
+        <text x="16" y="48" fill="#94a3b8" font-size="11">Commercial shopping mall directory &amp; showcase</text>
         <rect x="16" y="72" width="224" height="20" rx="4" fill="#070b16"/>
         <text x="24" y="86" fill="#a855f7" font-family="'Fira Code', 'JetBrains Mono', 'SFMono-Regular', Consolas, monospace" font-size="10" font-weight="600">React · JavaScript · CSS</text>
       </g>

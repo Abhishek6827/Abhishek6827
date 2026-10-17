@@ -1,19 +1,19 @@
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 900 250" width="900" height="250" style="background:#070b16; border-radius:20px; font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Inter', Roboto, Helvetica, Arial, sans-serif;">
   <defs>
-    <linearGradient id="p-border-04 // FLAGSHIP 04" x1="0%" y1="0%" x2="100%" y2="100%">
+    <linearGradient id="p-border-04____FLAGSHIP_04" x1="0%" y1="0%" x2="100%" y2="100%">
       <stop offset="0%" stop-color="#ff354f" stop-opacity="0.85"/>
       <stop offset="50%" stop-color="#ff354f" stop-opacity="0.35"/>
       <stop offset="100%" stop-color="#ff354f" stop-opacity="0.3"/>
     </linearGradient>
-    <pattern id="p-dots-04 // FLAGSHIP 04" width="24" height="24" patternUnits="userSpaceOnUse">
+    <pattern id="p-dots-04____FLAGSHIP_04" width="24" height="24" patternUnits="userSpaceOnUse">
       <circle cx="2" cy="2" r="1" fill="#334155" opacity="0.35"/>
     </pattern>
   </defs>
 
   <!-- Background Base -->
   <rect width="900" height="250" rx="20" fill="#070b16"/>
-  <rect width="900" height="250" fill="url(#p-dots-04 // FLAGSHIP 04)"/>
-  <rect x="0.75" y="0.75" width="898.5" height="248.5" rx="19.25" fill="none" stroke="url(#p-border-04 // FLAGSHIP 04)" stroke-width="1.5"/>
+  <rect width="900" height="250" fill="url(#p-dots-04____FLAGSHIP_04)"/>
+  <rect x="0.75" y="0.75" width="898.5" height="248.5" rx="19.25" fill="none" stroke="url(#p-border-04____FLAGSHIP_04)" stroke-width="1.5"/>
 
   <!-- Left Accent Bar -->
   <rect x="2" y="24" width="4" height="202" rx="2" fill="#f43f5e"/>
@@ -38,7 +38,7 @@
 
   <!-- Project Title & Subtitle -->
   <g transform="translate(50, 68)">
-    <text x="0" y="20" fill="#ffffff" font-size="19" font-weight="800">YouTube Automation — AI Video Metadata & Upload Pipeline</text>
+    <text x="0" y="20" fill="#ffffff" font-size="19" font-weight="800">YouTube Automation — AI Video Metadata &amp; Upload Pipeline</text>
     <text x="0" y="42" fill="#f43f5e" font-size="12.5" font-style="italic">"Automated YouTube content workflow: Drive → Gemini Vision → Scheduled Upload"</text>
   </g>
 
@@ -51,7 +51,7 @@
     </g>
     <g transform="translate(415, 0)">
       <rect width="385" height="30" rx="6" fill="#0b1224" stroke="#1e293b" stroke-width="0.9"/>
-      <text x="12" y="19" fill="#e2e8f0" font-size="11.5">📁 Google Drive API: Multi-folder monitoring & deduplication</text>
+      <text x="12" y="19" fill="#e2e8f0" font-size="11.5">📁 Google Drive API: Multi-folder monitoring &amp; deduplication</text>
     </g>
 
     <!-- Row 2 -->
@@ -61,7 +61,7 @@
     </g>
     <g transform="translate(415, 38)">
       <rect width="385" height="30" rx="6" fill="#0b1224" stroke="#1e293b" stroke-width="0.9"/>
-      <text x="12" y="19" fill="#e2e8f0" font-size="11.5">🛡️ Copyright Safety: Post-upload claim polling & auto-revert</text>
+      <text x="12" y="19" fill="#e2e8f0" font-size="11.5">🛡️ Copyright Safety: Post-upload claim polling &amp; auto-revert</text>
     </g>
   </g>
 
