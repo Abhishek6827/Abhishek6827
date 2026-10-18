@@ -163,7 +163,7 @@
 <br/><br/>
 
 <!-- PROFILE VIEWS COUNTER (Restored to original count + eye icon) -->
-<img src="https://komarev.com/ghpvc/?username=Abhishek6827&style=for-the-badge&color=247bff&label=%F0%9F%91%81%EF%B8%8F+PROFILE+VIEWS" alt="Profile Views" />
+<img src="https://img.shields.io/badge/dynamic/xml?url=https%3A%2F%2Fkomarev.com%2Fghpvc%2F%3Fusername%3DAbhishek6827&query=%2F%2F%2A%5Bname%28%29%3D%22text%22%5D%5Blast%28%29%5D&label=%F0%9F%91%81%EF%B8%8F+PROFILE+VIEWS&style=for-the-badge&color=247bff&labelColor=0b1224" alt="Profile Views" />
 
 <br/><br/>
 
