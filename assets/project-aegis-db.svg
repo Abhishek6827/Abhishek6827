@@ -20,9 +20,9 @@
 
   <!-- Top Header Title & CTA -->
   <g transform="translate(50, 26)">
-    <rect width="240" height="24" rx="6" fill="#0e172a" stroke="#14b8a6" stroke-width="1" stroke-opacity="0.7"/>
-    <text x="120" y="16" fill="#2dd4bf" font-family="'Fira Code', 'JetBrains Mono', 'SFMono-Regular', Consolas, monospace" font-size="10" font-weight="700" text-anchor="middle" letter-spacing="1">
-      06 // STORAGE ENGINES & DBS
+    <rect width="250" height="24" rx="6" fill="#0e172a" stroke="#14b8a6" stroke-width="1" stroke-opacity="0.7"/>
+    <text x="125" y="16" fill="#2dd4bf" font-family="'Fira Code', 'JetBrains Mono', 'SFMono-Regular', Consolas, monospace" font-size="10" font-weight="700" text-anchor="middle" letter-spacing="1">
+      06 // STORAGE ENGINES &amp; DBS
     </text>
 
     <!-- CTA Button on Right -->
@@ -39,7 +39,7 @@
   <!-- Project Title & Subtitle -->
   <g transform="translate(50, 68)">
     <text x="0" y="20" fill="#ffffff" font-size="18.5" font-weight="800">AegisDB — Java 21 Embedded Database Engine</text>
-    <text x="0" y="42" fill="#2dd4bf" font-size="12" font-style="italic">"High-performance embedded storage engine with clustered B+Tree & compressed bitmaps"</text>
+    <text x="0" y="42" fill="#2dd4bf" font-size="12" font-style="italic">&quot;High-performance embedded storage engine with clustered B+Tree &amp; compressed bitmaps&quot;</text>
   </g>
 
   <!-- 4 Architectural Highlights (2x2 Grid) -->
@@ -47,7 +47,7 @@
     <!-- Row 1 -->
     <g transform="translate(0, 0)">
       <rect width="385" height="30" rx="6" fill="#0b1224" stroke="#1e293b" stroke-width="0.9"/>
-      <text x="12" y="19" fill="#e2e8f0" font-size="11.5"><tspan font-weight="700">🌳 Clustered B+Tree:</tspan> Balanced disk-backed tree for fast point & range queries</text>
+      <text x="12" y="19" fill="#e2e8f0" font-size="11.5"><tspan font-weight="700">🌳 Clustered B+Tree:</tspan> Balanced disk-backed tree for fast point &amp; range queries</text>
     </g>
     <g transform="translate(415, 0)">
       <rect width="385" height="30" rx="6" fill="#0b1224" stroke="#1e293b" stroke-width="0.9"/>

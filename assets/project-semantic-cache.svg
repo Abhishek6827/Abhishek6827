@@ -20,9 +20,9 @@
 
   <!-- Top Header Title & CTA -->
   <g transform="translate(50, 26)">
-    <rect width="240" height="24" rx="6" fill="#0e172a" stroke="#38bdf8" stroke-width="1" stroke-opacity="0.7"/>
-    <text x="120" y="16" fill="#38bdf8" font-family="'Fira Code', 'JetBrains Mono', 'SFMono-Regular', Consolas, monospace" font-size="10" font-weight="700" text-anchor="middle" letter-spacing="1">
-      03 // LATENCY & SYSTEMS
+    <rect width="250" height="24" rx="6" fill="#0e172a" stroke="#38bdf8" stroke-width="1" stroke-opacity="0.7"/>
+    <text x="125" y="16" fill="#38bdf8" font-family="'Fira Code', 'JetBrains Mono', 'SFMono-Regular', Consolas, monospace" font-size="10" font-weight="700" text-anchor="middle" letter-spacing="1">
+      03 // LATENCY &amp; SYSTEMS
     </text>
 
     <!-- CTA Button on Right -->
@@ -38,8 +38,8 @@
 
   <!-- Project Title & Subtitle -->
   <g transform="translate(50, 68)">
-    <text x="0" y="20" fill="#ffffff" font-size="18.5" font-weight="800">Semantic Cache for FAQ Bot & High-Throughput LLMs</text>
-    <text x="0" y="42" fill="#38bdf8" font-size="12" font-style="italic">"Vector caching engine cutting inference cost by 67% with multilingual negation guard"</text>
+    <text x="0" y="20" fill="#ffffff" font-size="18.5" font-weight="800">Semantic Cache for FAQ Bot &amp; High-Throughput LLMs</text>
+    <text x="0" y="42" fill="#38bdf8" font-size="12" font-style="italic">&quot;Vector caching engine cutting inference cost by 67% with multilingual negation guard&quot;</text>
   </g>
 
   <!-- 4 Architectural Highlights (2x2 Grid) -->
@@ -61,7 +61,7 @@
     </g>
     <g transform="translate(415, 38)">
       <rect width="385" height="30" rx="6" fill="#0b1224" stroke="#1e293b" stroke-width="0.9"/>
-      <text x="12" y="19" fill="#e2e8f0" font-size="11.5"><tspan font-weight="700">🧹 Cache Hygiene:</tspan> TTL auto-expiry & PII regex scrubbing filters</text>
+      <text x="12" y="19" fill="#e2e8f0" font-size="11.5"><tspan font-weight="700">🧹 Cache Hygiene:</tspan> TTL auto-expiry &amp; PII regex scrubbing filters</text>
     </g>
   </g>
 
