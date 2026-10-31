@@ -1,0 +1,97 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 900 250" width="900" height="250" style="background:#070b16; border-radius:20px; font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Inter', Roboto, Helvetica, Arial, sans-serif;">
+  <defs>
+    <linearGradient id="p-border-card-4" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#f59e0b" stop-opacity="0.85"/>
+      <stop offset="50%" stop-color="#ff354f" stop-opacity="0.35"/>
+      <stop offset="100%" stop-color="#ef4444" stop-opacity="0.3"/>
+    </linearGradient>
+    <pattern id="p-dots-card-4" width="24" height="24" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="1" fill="#334155" opacity="0.35"/>
+    </pattern>
+  </defs>
+
+  <!-- Background Base -->
+  <rect width="900" height="250" rx="20" fill="#070b16"/>
+  <rect width="900" height="250" fill="url(#p-dots-card-4)"/>
+  <rect x="0.75" y="0.75" width="898.5" height="248.5" rx="19.25" fill="none" stroke="url(#p-border-card-4)" stroke-width="1.5"/>
+
+  <!-- Left Accent Bar -->
+  <rect x="2" y="24" width="4" height="202" rx="2" fill="#f59e0b"/>
+
+  <!-- Top Header Title & CTA -->
+  <g transform="translate(50, 26)">
+    <rect width="240" height="24" rx="6" fill="#0e172a" stroke="#f59e0b" stroke-width="1" stroke-opacity="0.7"/>
+    <text x="120" y="16" fill="#f59e0b" font-family="'Fira Code', 'JetBrains Mono', 'SFMono-Regular', Consolas, monospace" font-size="10" font-weight="700" text-anchor="middle" letter-spacing="1">
+      05 // CORE SYSTEMS & NETWORKING
+    </text>
+
+    <!-- CTA Button on Right -->
+    <a xlink:href="https://jedis-redis.vercel.app" target="_blank" style="cursor: pointer;">
+      <g transform="translate(630, 0)">
+        <rect width="170" height="26" rx="6" fill="#0b1224" stroke="#f59e0b" stroke-width="1.2"/>
+        <text x="85" y="17" fill="#f59e0b" font-family="'Fira Code', 'JetBrains Mono', 'SFMono-Regular', Consolas, monospace" font-size="11" font-weight="800" text-anchor="middle" letter-spacing="0.5">
+          LIVE CONSOLE ↗
+        </text>
+      </g>
+    </a>
+  </g>
+
+  <!-- Project Title & Subtitle -->
+  <g transform="translate(50, 68)">
+    <text x="0" y="20" fill="#ffffff" font-size="18.5" font-weight="800">Jedis — Java 23 In-Memory Redis Clone</text>
+    <text x="0" y="42" fill="#f59e0b" font-size="12" font-style="italic">"Raw TCP socket server with custom RESP 2/3 protocol parser, TTL & replication"</text>
+  </g>
+
+  <!-- 4 Architectural Highlights (2x2 Grid) -->
+  <g transform="translate(50, 126)">
+    <!-- Row 1 -->
+    <g transform="translate(0, 0)">
+      <rect width="385" height="30" rx="6" fill="#0b1224" stroke="#1e293b" stroke-width="0.9"/>
+      <text x="12" y="19" fill="#e2e8f0" font-size="11.5"><tspan font-weight="700">⚡ Raw TCP Socket Server:</tspan> Custom non-blocking event loop handling concurrency</text>
+    </g>
+    <g transform="translate(415, 0)">
+      <rect width="385" height="30" rx="6" fill="#0b1224" stroke="#1e293b" stroke-width="0.9"/>
+      <text x="12" y="19" fill="#e2e8f0" font-size="11.5"><tspan font-weight="700">🔌 RESP 2/3 Wire Protocol:</tspan> Byte-level parser for strings, errors, ints & arrays</text>
+    </g>
+
+    <!-- Row 2 -->
+    <g transform="translate(0, 38)">
+      <rect width="385" height="30" rx="6" fill="#0b1224" stroke="#1e293b" stroke-width="0.9"/>
+      <text x="12" y="19" fill="#e2e8f0" font-size="11.5"><tspan font-weight="700">🔁 Master-Slave Sync:</tspan> Distributed replication with PSYNC / WAIT offsets</text>
+    </g>
+    <g transform="translate(415, 38)">
+      <rect width="385" height="30" rx="6" fill="#0b1224" stroke="#1e293b" stroke-width="0.9"/>
+      <text x="12" y="19" fill="#e2e8f0" font-size="11.5"><tspan font-weight="700">⏱️ In-Memory Storage:</tspan> O(1) dictionary lookup with TTL timestamp eviction</text>
+    </g>
+  </g>
+
+  <!-- Bottom Tech Stack Pills Row -->
+  <g transform="translate(50, 206)">
+    <g transform="translate(0, 0)">
+  <rect width="96" height="26" rx="13" fill="#0b1224" stroke="#f59e0b" stroke-width="1.2" stroke-opacity="0.85"/>
+  <svg x="10" y="5" width="16" height="16" viewBox="0 0 24 24" fill="#f59e0b"><path d="M11.915 0 11.7.215C9.515 2.4 7.47 6.39 6.046 10.483c-1.064 1.024-3.633 2.81-3.711 3.551-.093.87 1.746 2.611 1.55 3.235-.198.625-1.304 1.408-1.014 1.939.1.188.823.011 1.277-.491a13.389 13.389 0 0 0-.017 2.14c.076.906.27 1.668.643 2.232.372.563.956.911 1.667.911.397 0 .727-.114 1.024-.264.298-.149.571-.33.91-.5.68-.34 1.634-.666 3.53-.604 1.903.062 2.872.39 3.559.704.687.314 1.15.664 1.925.664.767 0 1.395-.336 1.807-.9.412-.563.631-1.33.72-2.24.06-.623.055-1.32 0-2.066.454.45 1.117.604 1.213.424.29-.53-.816-1.314-1.013-1.937-.198-.624 1.642-2.366 1.549-3.236-.08-.748-2.707-2.568-3.748-3.586C16.428 6.374 14.308 2.394 12.13.215zm.175 6.038a2.95 2.95 0 0 1 2.943 2.942 2.95 2.95 0 0 1-2.943 2.943A2.95 2.95 0 0 1 9.148 8.98a2.95 2.95 0 0 1 2.942-2.942zM8.685 7.983a3.515 3.515 0 0 0-.145.997c0 1.951 1.6 3.55 3.55 3.55 1.95 0 3.55-1.598 3.55-3.55 0-.329-.046-.648-.132-.951.334.095.64.208.915.336a42.699 42.699 0 0 1 2.042 5.829c.678 2.545 1.01 4.92.846 6.607-.082.844-.29 1.51-.606 1.94-.315.431-.713.651-1.315.651-.593 0-.932-.27-1.673-.61-.741-.338-1.825-.694-3.792-.758-1.974-.064-3.073.293-3.821.669-.375.188-.659.373-.911.5s-.466.2-.752.2c-.53 0-.876-.209-1.16-.64-.285-.43-.474-1.101-.545-1.948-.141-1.693.176-4.069.823-6.614a43.155 43.155 0 0 1 1.934-5.783c.348-.167.749-.31 1.192-.425zm-3.382 4.362a.216.216 0 0 1 .13.031c-.166.56-.323 1.116-.463 1.665a33.849 33.849 0 0 0-.547 2.555 3.9 3.9 0 0 0-.2-.39c-.58-1.012-.914-1.642-1.16-2.08.315-.24 1.679-1.755 2.24-1.781zm13.394.01c.562.027 1.926 1.543 2.24 1.783-.246.438-.58 1.068-1.16 2.08a4.428 4.428 0 0 0-.163.309 32.354 32.354 0 0 0-.562-2.49 40.579 40.579 0 0 0-.482-1.652.216.216 0 0 1 .127-.03z"/></svg>
+  <text x="34" y="17" fill="#ffffff" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Inter', Roboto, Helvetica, Arial, sans-serif" font-size="11" font-weight="700">Java 23</text>
+</g>
+<g transform="translate(106, 0)">
+  <rect width="90" height="26" rx="13" fill="#0b1224" stroke="#4ade80" stroke-width="1.2" stroke-opacity="0.85"/>
+  <svg x="10" y="5" width="16" height="16" viewBox="0 0 24 24" fill="#4ade80"><path d="m23.693 10.7058-4.73-8.1844c-.4094-.7106-1.4166-1.2942-2.2402-1.2942H7.2725c-.819 0-1.8308.5836-2.2402 1.2942L.307 10.7058c-.4095.7106-.4095 1.873 0 2.5837l4.7252 8.189c.4094.7107 1.4166 1.2943 2.2402 1.2943h9.455c.819 0 1.826-.5836 2.2402-1.2942l4.7252-8.189c.4095-.7107.4095-1.8732 0-2.5838zM10.9763 5.7547c0-.5365.4377-.9742.9742-.9742s.9742.4377.9742.9742v5.8217c0 .5366-.4377.9742-.9742.9742s-.9742-.4376-.9742-.9742zm.9742 12.4294c-3.6427 0-6.6077-2.965-6.6077-6.6077.0047-2.0896.993-4.0521 2.6685-5.304a.8657.8657 0 0 1 1.2142.1788.8657.8657 0 0 1-.1788 1.2143c-2.1602 1.6048-2.612 4.6592-1.0072 6.8194 1.6049 2.1603 4.6593 2.612 6.8195 1.0072 1.2378-.9177 1.9673-2.372 1.9673-3.9157a4.8972 4.8972 0 0 0-1.9861-3.925c-.386-.2824-.466-.8284-.1836-1.2143.2824-.386.8283-.466 1.2143-.1835 1.6895 1.2471 2.6826 3.2238 2.6873 5.3228 0 3.6474-2.965 6.6077-6.6077 6.6077z"/></svg>
+  <text x="34" y="17" fill="#ffffff" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Inter', Roboto, Helvetica, Arial, sans-serif" font-size="11" font-weight="700">Spring</text>
+</g>
+<g transform="translate(206, 0)">
+  <rect width="137" height="26" rx="13" fill="#0b1224" stroke="#38bdf8" stroke-width="1.2" stroke-opacity="0.85"/>
+  <circle cx="16" cy="13" r="3" fill="#38bdf8"/>
+  <text x="30" y="17" fill="#ffffff" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Inter', Roboto, Helvetica, Arial, sans-serif" font-size="11" font-weight="700">RESP Protocol</text>
+</g>
+<g transform="translate(353, 0)">
+  <rect width="122" height="26" rx="13" fill="#0b1224" stroke="#ef4444" stroke-width="1.2" stroke-opacity="0.85"/>
+  <circle cx="16" cy="13" r="3" fill="#ef4444"/>
+  <text x="30" y="17" fill="#ffffff" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Inter', Roboto, Helvetica, Arial, sans-serif" font-size="11" font-weight="700">TCP Sockets</text>
+</g>
+<g transform="translate(485, 0)">
+  <rect width="122" height="26" rx="13" fill="#0b1224" stroke="#a855f7" stroke-width="1.2" stroke-opacity="0.85"/>
+  <circle cx="16" cy="13" r="3" fill="#a855f7"/>
+  <text x="30" y="17" fill="#ffffff" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Inter', Roboto, Helvetica, Arial, sans-serif" font-size="11" font-weight="700">Concurrency</text>
+</g>
+
+  </g>
+</svg>
